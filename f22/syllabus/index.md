@@ -218,3 +218,36 @@ All _italicized_ text is for your notice.
     </tr>
   </tbody>
 </table>
+
+## Assessment
+
+The grade will consist of an assessment of both the quality of the data science experiment, its results, the technical process over the course of the semester as well as your evaluation by your peers.
+
+The course grade will be based on the following:
+- Fall Plan (required, feedback provided): 0%
+- Weekly standups (start September 15): 10%
+- Midterm check-in: 10%
+- The draft report is expected to be content-complete, i.e., no missing results, no missing sections, no text with grammatical issues as well as understandable diagrams and proper treatment of related work: 10%
+- Final report is where you work out issues that arise during your final presentation, which will be graded as if it were submitted to a peer-reviewed workshop. **You will also receive reviews from 11-631 students**: 30%
+- Final presentation: 30%
+- Team Peer Review: 5%
+- Midterm Inner-team Peer Review: 2.5%
+- Final Inner-team Peer Review: 2.5%
+
+Students are expected to take ownership of the project, take the initiative in driving the development forward and autonomously seek help when getting stuck. If requirements are unclear at any point, please talk to your project mentor or the instructors. For a detailed rubric of how the system, experiment, and results are assessed, you will be directed to the grading criteria document as posted on Canvas during the semester.
+
+# Technical Process Criteria
+
+The Capstone project is also an exercise in proper software engineering. Your technical process evaluation will consider the following factors:
+
+- Every project is required to use a GitHub or bitbucket repository.
+- Every team member is expected to produce regular and sensible commits.
+- To do items and nontrivial ongoing tasks are to be organized and documented in the GitHub issue system. This documentation is particularly important for planning milestones and action items produced during weekly meetings.
+- Documentation must include a plan with timelines and milestones. Time and labor estimates for tasks are also a critical part of a project plan.
+- Any documentation that will be needed on an ongoing basis (e.g., APIs, file formats, etc.) is to be kept in the GitHub repository readme and/or wiki pages.
+- Code quality will be accounted for by the mentor and/or peer review.
+
+## Weekly Standups
+A standup is a casual check-in to share your team’s progress update. It is not supposed to be a polished presentation. Simply share your screen and brief us on what has been happening. Be authentic with what your team’s current progress is and what your team is dealing with. Doing so allows us to provide you with timely support if needed.
+
+Each team is required to submit a standup on a weekly basis according to the course schedule. Students submit standups by recording a 5 to 10-minute video.
