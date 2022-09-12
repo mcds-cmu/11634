@@ -2,8 +2,6 @@
 layout: f22
 title: Related Courses
 nav_order: 3
-description: >-
-    Courses Related to 11637 -  Foundations of Computational Data Science.
 ---
 
 # Related Courses

@@ -2,8 +2,6 @@
 layout: f22
 title: Home
 nav_order: 1
-description: >-
-    Course information for 11637 -  Foundations of Computational Data Science.
 has_children: true
 has_toc: false
 permalink: f22/index.html

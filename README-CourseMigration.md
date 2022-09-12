@@ -9,7 +9,7 @@ search_exclude: true
 If you're reading this file, it means that its time to create course content for a new semester. This is not difficult, however there are some things you will need to be careful about.
 
 1. The Staffers - If you look at the documentation structure, `staffers` are listed *outside* the course pages which are in `m22` or `s22`.
-2. Set the redirect rule in `index.html` - When someone lands at `https://mcds-cmu.github.io/11637`, they are automatically redirected to the latest course version. At the time of writing this, it is `f22` for *Fall 2022*. Every time you create new course content, ensure that the redirect line in `index.html` is updated to point to the latest course landing page.
+2. Set the redirect rule in `index.html` - When someone lands at `https://mcds-cmu.github.io/11632`, they are automatically redirected to the latest course version. At the time of writing this, it is `f22` for *Fall 2022*. Every time you create new course content, ensure that the redirect line in `index.html` is updated to point to the latest course landing page.
 
 # Creating new course pages
 At the time of writing this, we are creating the `f22` course page from `m22`. So consider this as an example for future migrations where `f22` is the destination course, and `m22` is the existing course for migration.

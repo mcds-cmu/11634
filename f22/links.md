@@ -2,8 +2,6 @@
 layout: f22
 title: Links
 nav_order: 8
-description: >-
-    Links for 11637 -  Foundations of Computational Data Science.
 ---
 
 # Links

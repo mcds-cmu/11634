@@ -2,8 +2,6 @@
 layout: f22
 title: Academic Integrity
 nav_order: 7
-description: >-
-    Academic Integrity Policies for 11637 -  Foundations of Computational Data Science.
 ---
 
 # Academic Integrity
