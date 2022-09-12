@@ -2,89 +2,219 @@
 layout: f22
 title: Syllabus
 nav_order: 2
-description: >-
-    Syllabus for 11637 -  Foundations of Computational Data Science.
 has_children: true
 has_toc: false
 ---
 
-# 11-637: Foundations of Computational Data Science - Syllabus
+# 11-632: Data Science Capstone - Syllabus
 
-**The latest version of the syllabus is available on [Canvas](https://canvas.cmu.edu/courses/28890) for enrolled students.**
+## Course Learning Outcomes
 
-## Overview
+The main learning objectives of the course are for students to design, implement and evaluate a software system and machine learning model on real-world datasets at a real-world scale.
+Formulate computational data science problems in different application domains and critique their state-of-the-art solutions. Organize, present, and report on, a real-world data science project in collaboration with other researchers/programmers.
 
-**Title:** Foundations of Computational Data Science <br />
-**Units:** 11-637 is 12 units. <br />
-**Pre-requisites:**
-- Significant programming experience in Python (ability to design, implement and debug non-trivial programs). Ability to pick up other programming languages as needed.
-- Understanding of basic statistics (descriptive statistics, hypothesis testing, measure of central tendency).
-- Understanding of basic linear algebra.<br />
+{% assign staffers = site.staffers | where_exp: "staffer", "staffer.staff_for contains 'f22'" %}
 
-**Course Format:** Remote Asynchronous (1st meeting of the semester is a live session–details will be sent prior to the start of the course)
+## Instructor
+{% assign instructors = staffers | where: 'role', 'Instructor' | sort:"list_order" %}
+<div class="staffer-container">
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+</div>
 
-## Course Description
+## Course Developer
+{% assign developers = staffers | where: 'role', 'Course Staff and Developers' | sort:"list_order" %}
+<div class="staffer-container">
+{% for staffer in developers %}
+{{ staffer }}
+{% endfor %}
+</div>
 
-{% include syllabus/course_description.md %}
+## Teaching Assistants
+{% assign tas = staffers | where: 'role', 'Teaching Assistants' | sort:"list_order" %}
+<div class="staffer-container">
+{% for staffer in tas %}
+{{ staffer }}
+{% endfor %}
+</div>
 
-## Course Goals 
+## Time & Location
 
-{% include syllabus/course_goals.md %}
+Section A: M/W 10:10 am – 11:30 am, TEP 1403
 
-## Learning Outcomes
+## Contents and Schedule
 
-{% include syllabus/learning_outcomes.md %}
+Student teams will work on their assigned Capstone projects under the supervision of the project advisor and, where applicable, in collaboration with other students/faculty. 
 
-## Course Organization
+Class sessions are noted on the scheduled dates below. Professor Nyberg is available for office hours during class meeting time in the assigned classroom (TEP 1403). Teams are encouraged to come to class to work on their projects and/or ask questions. 
 
-Your participation in the course will involve several forms of activity:
+All deliverables are **bolded**. Students are expected to meet as project teams at least once a week, record, and submit a 5 to 10-minute weekly standup. There are three evaluation milestones, a draft, and final report, and a final presentation.
 
-1. Reading the online coursework content for each unit on OLI.
-2. Completing the unscored inline activities for each unit (Review activities on OLI).
-3. Completing the graded checkpoint weekly quizzes after each unit. 
-4. Complete projects, which are performed on the cloud and submitted through Sail() Platform.
+All _italicized_ text is for your notice.
 
-Students should regularly check OLI to see when new content or checkpoint quizzes are made available. Projects and Checkpoint quizzes must be completed by the due dates posted on Sail() Platform.
-
-## Getting Help
-
-{% include syllabus/getting_help.md %}
-
-## Policies
-
-{% include syllabus/policies.md %}
-
-## Assessment
-
-{% include syllabus/assessment.md %}
-
-## Cheating
-
-{% include syllabus/cheating.md %}
-
-## Conceptual Topics
-
-{% include syllabus/conceptual_topics.md %}
-
-## Projects
-
-{% include syllabus/projects.md %}
-
-## Schedule
-
-See the [Course Calendar]({{ site.baseurl }}{{ page.subpath }}{% link f22/schedule.md %}) for the tentative schedule. Specific deadlines are posted on OLI and Sail() Platform.
-
-## Accommodations for Students with Disabilities
-
-{% include syllabus/for_students_with_disabilities.md %}
-
-## Take care of yourself
-
-{% include syllabus/take_care.md %}
-
-
-
-
-
-
-
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Activity</th>
+      <th><strong>Deliverable Due</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aug 29</td>
+      <td>Introduction/Overview</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Aug 31</td>
+      <td>
+        Tutorials:
+        <ul>
+            <li>Fall Plan</li>
+            <li>How to do a Standup</li>
+        </ul>
+    </td>
+      <td><strong>Fall Plan Due Sep 4</strong></td>
+    </tr>
+    <tr>
+      <td>Sep 5</td>
+      <td colspan="2" style="text-align: center;">Labor Day (No Class)</td>
+    </tr>
+    <tr>
+      <td>Sep 7</td>
+      <td colspan="2" style="text-align: center;">Fall Plan Feedback</td>
+    </tr>
+    <tr>
+      <td>Sep 12</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Sep 14</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td><strong>Weekly Standup Due Sep 15</strong></td>
+    </tr>
+    <tr>
+      <td>Sep 19</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Sep 21</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td><strong>Weekly Standup Due Sep 22</strong></td>
+    </tr>
+    <tr>
+      <td>Sep 26</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Sep 28</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td><strong>Weekly Standup Due Sep 29</strong></td>
+    </tr>
+    <tr>
+      <td>Oct 3</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Oct 5</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td><strong>Weekly Standup Due Oct 6</strong></td>
+    </tr>
+    <tr>
+      <td>Oct 10</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Oct 12</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td><strong>Weekly Standup Due Oct 13</strong></td>
+    </tr>
+    <tr>
+      <td>Oct 17</td>
+      <td colspan="2" rowspan="2" style="text-align: center;">Fall Break (No Class)</td>
+    </tr>
+    <tr>
+      <td>Oct 19</td>
+    </tr>
+    <tr>
+      <td>Oct 24</td>
+      <td rowspan="2"><strong>Midterm Check-in with Prof. Nyberg (in-person and Zoom)<br>Schedule TBD</strong></td>
+      <td><i>Midterm Grades due to University Oct 24</i></td>
+    </tr>
+    <tr>
+      <td>Oct 26</td>
+      <td><strong>Midterm Inner-team Peer Review due Oct 27</strong></td>
+    </tr>
+    <tr>
+      <td>Oct 31</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Nov 2</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td><strong>Weekly Standup Due Nov 3</strong></td>
+    </tr>
+    <tr>
+      <td>Nov 7</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Nov 9</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td><strong>Weekly Standup Due Nov 10</strong></td>
+    </tr>
+    <tr>
+      <td>Nov 14</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Nov 16</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td><strong>Weekly Standup Due Nov 17<br>Draft Report Due Nov 20</strong></td>
+    </tr>
+    <tr>
+      <td>Nov 21</td>
+      <td rowspan="2" colspan="2" style="text-align: center;">Thanksgiving Break (No Class)</td>
+    </tr>
+    <tr>
+      <td>Nov 23</td>
+    </tr>
+    <tr>
+      <td>Nov 28</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td><i>Draft Report Feedback will be returned by Nov 28</i></td>
+    </tr>
+    <tr>
+      <td>Nov 30</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td><strong>Weekly Standup Due Dec 1</strong></td>
+    </tr>
+    <tr>
+      <td>Dec 5</td>
+      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Dec 7 - Dec 14</td>
+      <td colspan="2" style="text-align: center;"><strong>MCDS Capstone Final Presentation</strong></td>
+    </tr>
+    <tr>
+      <td>Dec 15</td>
+      <td colspan="2" style="text-align: center;"><strong>Team Peer Review Due<br>Final Report Due<br>Final Inner-team Peer Review Due</strong></td>
+    </tr>
+    <tr>
+      <td>Dec 21</td>
+      <td colspan="2" style="text-align: center;"><i>Final Grades due to University</i></td>
+    </tr>
+  </tbody>
+</table>
