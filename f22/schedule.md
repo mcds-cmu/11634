@@ -1,9 +1,7 @@
 ---
 layout: f22
-title: Calendar
-nav_order: 4
-description: >-
-    Calendar for 11637 -  Foundations of Computational Data Science.
+title: Schedule
+nav_order: 3
 ---
 
 # Calendar
@@ -15,7 +13,7 @@ description: >-
 
 <iframe
     id="class-schedule-iframe"
-    src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&mode=MONTH&showTitle=0&showNav=1&showDate=1&showPrint=0&showTabs=0&showCalendars=0&src=Y19ydG9obGYxY2FwdTA1Ym40NXJhcHV0b2x0c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23c2764f"
+    src="https://calendar.google.com/calendar/embed?src=c_ofjqiuchadcbsl669sublp5f04%40group.calendar.google.com&ctz=America%2FNew_York"
     frameborder="0"
     scrolling="no">
 </iframe>

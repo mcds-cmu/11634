@@ -1,19 +1,14 @@
 ---
 layout: f22
 title: Links
-nav_order: 8
-description: >-
-    Links for 11637 -  Foundations of Computational Data Science.
+nav_order: 5
 ---
 
 # Links
 ## Course links
 
-Office Hours Queue: [https://www.eberly.cmu.edu/ohq/#/courses](https://www.eberly.cmu.edu/ohq/#/courses) and search for 11-637 <br />
-Canvas (Fall 2022): [https://canvas.cmu.edu/courses/30737](https://canvas.cmu.edu/courses/30737) <br />
+Canvas (Fall 2022): [https://canvas.cmu.edu/courses/30738](https://canvas.cmu.edu/courses/30738) <br />
 Piazza: accessed through Canvas <br />
-Sail(): accessed through Canvas <br />
-OLI: accessed through Canvas <br />
 Gradescope: accessed through Canvas
 
 ## CMU links
