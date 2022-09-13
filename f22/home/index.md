@@ -14,3 +14,7 @@ permalink: f22/index.html
 ### Course Description
 
 {% include syllabus/course_learning_outcomes.md %}
+
+## Who We Are
+
+{% include staff.md course_version="f22" %}
