@@ -236,7 +236,7 @@ The course grade will be based on the following:
 
 Students are expected to take ownership of the project, take the initiative in driving the development forward and autonomously seek help when getting stuck. If requirements are unclear at any point, please talk to your project mentor or the instructors. For a detailed rubric of how the system, experiment, and results are assessed, you will be directed to the grading criteria document as posted on Canvas during the semester.
 
-# Technical Process Criteria
+## Technical Process Criteria
 
 The Capstone project is also an exercise in proper software engineering. Your technical process evaluation will consider the following factors:
 
@@ -251,3 +251,23 @@ The Capstone project is also an exercise in proper software engineering. Your te
 A standup is a casual check-in to share your team’s progress update. It is not supposed to be a polished presentation. Simply share your screen and brief us on what has been happening. Be authentic with what your team’s current progress is and what your team is dealing with. Doing so allows us to provide you with timely support if needed.
 
 Each team is required to submit a standup on a weekly basis according to the course schedule. Students submit standups by recording a 5 to 10-minute video.
+
+## Midterm Check-in
+
+Midterm check-in is a standup-style, in-person (or synchronous via Zoom) meeting with professor Nyberg. The schedule for these meetings will be posted on Piazza.
+
+## Inner-team Peer Review Assessment
+
+To facilitate a fair distribution of work among team members, **each midterm** and **final** assessment includes a peer review. It includes
+- Evaluation of one's own and other’s contributions to the project.
+- Comments about my own contribution to peers.
+- Comments to peers about peer contribution.
+- Comments to instructors about their own and others’ contributions.
+
+## Team Peer Review
+
+Each student is required to attend at least one final presentation of another team and submit a brief review of this team’s presentation. Students will have the chance to submit their preference for the team to review according to their schedule suitability.
+
+## Academic Integrity
+
+For all presentations and the final report, students share work with their teammates. Both presentations and reports need to make clear at all times the students’ contributions and those parts that have been influenced, taken, adapted, or otherwise derived from prior work. Any such additional material must be properly cited in the report and on the presentation slides. This citation material includes related academic writing (even if published by a collaborator of the project), diagrams, datasets, prior Capstone project reports, video tutorials, scientific blog posts, and technical components such as algorithms, libraries, and the like. When a source’s text is paraphrased, it needs to be referenced. If it is reused verbatim, it must be quoted.
