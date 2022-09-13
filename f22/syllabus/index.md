@@ -14,29 +14,7 @@ has_toc: false
 
 {% assign staffers = site.staffers | where_exp: "staffer", "staffer.staff_for contains 'f22'" %}
 
-## Instructor
-{% assign instructors = staffers | where: 'role', 'Instructor' | sort:"list_order" %}
-<div class="staffer-container">
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
-</div>
-
-## Course Developer
-{% assign developers = staffers | where: 'role', 'Course Staff and Developers' | sort:"list_order" %}
-<div class="staffer-container">
-{% for staffer in developers %}
-{{ staffer }}
-{% endfor %}
-</div>
-
-## Teaching Assistants
-{% assign tas = staffers | where: 'role', 'Teaching Assistants' | sort:"list_order" %}
-<div class="staffer-container">
-{% for staffer in tas %}
-{{ staffer }}
-{% endfor %}
-</div>
+{% include staff.md course_version="f22" %}
 
 ## Time & Location
 
