@@ -1,0 +1,2 @@
+The main learning objectives of the course are for students to design, implement and evaluate a software system and machine learning model on real-world datasets at a real-world scale.
+Formulate computational data science problems in different application domains and critique their state-of-the-art solutions. Organize, present, and report on, a real-world data science project in collaboration with other researchers/programmers.
