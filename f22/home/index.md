@@ -7,7 +7,7 @@ has_toc: false
 permalink: f22/index.html
 ---
 
-# 11-637: Foundations of Computational Data Science
+# 11-632: Data Science Capstone
 
 ## Fall 2022
 
