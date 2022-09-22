@@ -3,7 +3,7 @@ name: Ranadeep Singh
 role: Teaching Assistant
 email: ranadees@andrew.cmu.edu
 list_order: 2
-# photo: staff/ashwin.jpeg
-# website: https://linkedin.com/in/ashwin-saval-aaa2901a
+photo: staff/rana.jpg
+website: https://www.linkedin.com/in/ranadeepsingh
 staff_for: [f22]
 ---
