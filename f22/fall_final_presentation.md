@@ -6,7 +6,6 @@ nav_order: 7
 
 # Fall Capstone Final Presentation Schedule and Information
 
-<!doctype html>
 <html>
 <style>
 table,tr {
