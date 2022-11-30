@@ -8,14 +8,6 @@ has_toc: false
 
 # 11-632: Data Science Capstone - Syllabus
 
-## Course Learning Outcomes
-
-{% include syllabus/course_learning_outcomes.md %}
-
-{% assign staffers = site.staffers | where_exp: "staffer", "staffer.staff_for contains 'f22'" %}
-
-{% include staff.md course_version="f22" %}
-
 ## Time & Location
 
 Section A: M/W 10:10 am – 11:30 am, TEP 1403
