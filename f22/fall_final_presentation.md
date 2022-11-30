@@ -23,7 +23,6 @@ position: relative;
 
 }
 td {
-width: 50%;
 vertical-align: top;
 }
 
@@ -38,8 +37,9 @@ text-align: center;
 }
 h2 {
 height: 10px;
-vertical-align: baseline;
+vertical-align: top;
 text-align: center;
+padding-top: 25px;
 padding-bottom: 25px;
 }
 </style>
