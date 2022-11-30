@@ -1,6 +1,6 @@
 ---
 layout: f22
-title: Fall Capstone Final Presentation
+title: Fall Capstone Final Presentation Information
 nav_order: 7
 ---
 
