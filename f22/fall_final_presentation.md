@@ -6,6 +6,43 @@ nav_order: 7
 
 # Fall Capstone Final Presentation Schedule and Information
 
+<html>
+<style>
+table,tr {
+  
+table-layout: fixed ;
+  width: 100% ;
+}
+
+img {
+
+width: 100%;
+height: auto;
+overflow: hidden;
+position: relative;
+
+}
+td {
+width: 50%;
+vertical-align: top;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+p {
+text-align: center; 
+}
+h2 {
+height: 10px;
+vertical-align: baseline;
+text-align: center;
+padding-bottom: 25px;
+}
+</style>
 <div>
 <div>
 <table>
