@@ -282,7 +282,7 @@ GHC 8102<br>
 <img src="https://i.postimg.cc/hv1x5dPD/System-design-diagram-Zhouyao-Xie.png" 
 style="height: auto; width: 100%; overflow: hidden; position: relative;"
 class="center" alt="Zhouyao">
-<p>Zhouyao Xie; Nikhil Yadala; Xinyi Chen; Jingxi Liu</p>
+<p>Zhouyao Xie, Nikhil Yadala, Xinyi Chen, Jingxi Liu</p>
 <p>Despite recent advancements in neural generative models and multi-modal machine learning, the task of conditional music generation remains a niche research area that is largely under-explored. Inspired by CLIP, which learns to align image and text modalities through contrastive learning, we propose MusicCLIP, a text-conditioned music generation model with an encoder-decoder architecture. In the encoder part, Transformer-based music encoder and text encoder learn to align each other through contrastive learning. In the decoder part, a music decoder generates symbolic music from latent embeddings using nucleus sampling.<br><br>
 Monday, December 12<br>
 GHC 8102<br>
@@ -435,6 +435,7 @@ class="center" alt="Suen">
 <p>Hermes Suen</p>
 <p>Nudge is a project aimed at creating a platform for individuals, institutions, and organizations to invest in real-life behavior change. It is built on the assumption of memetic desire and social contagion and provides monetary rewards to creators of viral TikToks that are related to the desired behavior change.<br><br>
 Tuesday, December 13<br>
+GHC 4405<br>
 2:40-3:20<br>
 <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a>
 </p>
