@@ -65,6 +65,8 @@ padding-bottom: 25px;
 <p>Adhokshaja Madhwaraj, Jessica Zhong, Kushagra Mahajan, Malaika Vijay, Sai Vishwas Padigi, Vineeth Reddy Vatti</p>
 <p>Embodied task-completion agents are intelligent agents that can perceive, navigate, and manipulate objects in an environment. We developed a bot for the SimBot challenge in conversational embodied task completion, where users can converse with and guide the bot to complete tasks in a 3D environment. The Navigation and Interaction thrust of the SimBot project focuses on scene understanding and action planning to perform actions that satisfy a user&rsquo;s instruction. Our primary contributions include an Image Segmentation model to identify objects of interest and an Action Planning module capable of generating a logical sequence of actions to execute on the simulator.<br /><br /> Tuesday, December 6<br /> POS 153 <br /> 8:35-9:15<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
 </td>
+</tr>
+<tr style="text-align: center;">
 <td>
 <h2>SimBot Dataset Collection: An Embodied Vision-Audio-Navigation Task</h2>
 <img src="https://i.postimg.cc/N0rS3sh9/Data-Collection-Workflow-Linyi-Li.png" alt="Linyi" />
@@ -82,6 +84,8 @@ padding-bottom: 25px;
 <img src="https://i.postimg.cc/0NRgGSmb/Screenshot-2022-11-22-at-11-03-41-Yukun-Jiang.png" alt="Yukun" width="768" height="314" />
 <p>Yukun Jiang, Leo Guo, Yufan Song, Ting Luo, Tianyi Sun, Peilin Rao,<br /><br /> EnvPool is a C++-based batched environment pool with pybind11 and thread pool. It has high performance (~1M raw FPS with Atari games, ~3M raw FPS with Mujoco simulator on DGX-A100) and compatible APIs (supports both gym and dm_env, both sync and async, both single and multi player environment)<br /><br /> Wednesday, December 7<br /> TEP 1403<br /> 10:10-10:50 <br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
 </td>
+</tr>
+<tr style="text-align: center;">
 <td>
 <h2>Multimodal Question Answering</h2>
 <img src="https://i.postimg.cc/DwSzHXx2/5-Manoj-Ghuhan-Arivazhagan.png" alt="Ghuhan" />
@@ -101,6 +105,8 @@ padding-bottom: 25px;
 <p>At ASML, flatness error of wafer tables is computed manually using a fixed formula. Although exact, the current system takes more than 5 minutes to compute all spec maps per sample, which is inefficient. In this work, we introduce a machine-learning method that predicts spec maps with sufficiently small errors while being substantially faster. We use U-Net and its variant SmaAt-UNet and show that they perform very effectively at our task. Equipped with attention and depthwise-separable convolutions, SmaAt-UNet achieves less than 2% error across all spec maps, while taking only 30 seconds to compute, 10x faster than the current system.<br /><br /> Wednesday, December 7<br /> GHC 4405<br /> 1:40-2:20<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
 </td>
 </tr>
+<tr style="text-align: center;">
+<td>
 <h2>Self-driving Databases</h2>
 <img src="https://i.postimg.cc/NfFBbC7K/Screenshot-2022-11-28-at-11-04-06-PM-He-Wei-Lee.png" alt="Wei-Lee" />
 <p>Kushagra Singh, Lichen Jin, He-Wei Lee</p>
@@ -118,6 +124,8 @@ padding-bottom: 25px;
 <p>Shreya Sharma</p>
 <p>With the advent of cloud computing benefits such as elasticity and availability at affordable rates, a large number of machine learning workloads are migrating to cloud for operations. However, in this paradigm sensitive data may be leaked to service provider if they are curious or compromised. This project aims at making existing NLP models oblivious i.e. enabling secure inference on a trained BERT model without revealing any information about the client input data. Such a service can find uses in audits or private contract reviews, entity recognition.<br /><br /> Thursday, December 8<br /> POS 153 <br /> 8:35-9:15<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
 </td>
+</tr>
+<tr style="text-align: center;">
 <td>
 <h2>Data Augmentation for Information Retrieval</h2>
 <img src="https://i.postimg.cc/PrQwMYPN/da-poster-picture-Riddhi-Nisar.png" alt="Riddhi" />
@@ -136,6 +144,8 @@ padding-bottom: 25px;
 <p>Jiuzhi Yu, Sumanth Rao</p>
 <p>With more data to analyze in this big data era, the traditional CPU-centric processing is constrained by the large volume of data transferred between the storage system and memory. In the meantime, with the advances in the computational storage devices in the industry, we are seeing the potential of offloading computation to storage device to optimize the applications which processes large amounts of data.In this project, we explore the potential of offloading RocksDB compaction operations and demonstrate the performance gain for the operation itself and for the whole system.<br /><br /> Monday, December 12<br /> GHC 8102<br /> 10:00-10:40<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
 </td>
+</tr>
+<tr style="text-align: center;">
 <td>
 <h2>Automated Sensemaking for Online Tasks</h2>
 <img src="https://i.postimg.cc/QCcGGjRx/highlevel2-Ye-Rin-Han.png" alt="Ye-Rin-Han" width="500" height="250" />
@@ -154,6 +164,8 @@ padding-bottom: 25px;
 <p>Hao Yang Lu, Eeshwar Gurushankar Prasad, Shantanu Kamath, Chenda Zhang</p>
 <p>ACAI helps ML practitioners focus on model development by providing utilities that reduce the development and deployment overheads that come with cloud infrastructure. We have implemented three novel features into the existing ACAI framework.<br /><br /> Monday, December 12<br /> GHC 8102<br /> 1:00-1:40<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
 </td>
+</tr>
+<tr style="text-align: center;">
 <td>
 <h2>Stargate: Towards DynamoDB Compatibility for Cassandra</h2>
 <img src="https://i.postimg.cc/y8NgmTWj/deployment-model-Boxuan-Li.png" alt="Li" />
@@ -172,6 +184,8 @@ padding-bottom: 25px;
 <p>Shicheng Huang</p>
 <p>Data pipeline wind tunnel is an end-to-end benchmarking system to allow stakeholders to evaluate the pipeline performance and make iterative modifications based on different configurations.<br /><br /> Monday, December 12<br /> GHC 8102<br /> 3:00-3:40<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
 </td>
+</tr>
+<tr style="text-align: center;">
 <td>
 <h2>Accelerated Cloud for AI - AutoML</h2>
 <img src="https://i.postimg.cc/rsnHb0HX/systems-architecture-Ke-Sun.png" alt="Ke-Sun" />
@@ -189,6 +203,8 @@ padding-bottom: 25px;
 <p>Yuting Deng</p>
 <p>Billions of years of evolution has produced millions of diverse species. Adaptation is driven by changes in molecules whose functions give rise to life. Temperature acting as the driving force for evolutionary processes, decides the adaptation of protein stability and activities. To demystify the molecular mechanisms underlying proteins&rsquo; temperature adaptation, this project aims to investigate proteins' thermostability through computational methods. Since a well-annotated functional database of protein is lacking, we curated a large-scale well-annotated functional database across archaea and bacterias, including ~9947 ortholog groups annotated by 40 critical function labels under rigorous quality control. In the future, this dataset would be of great value in dissecting biophysical forces that drive protein evolution through identifying temperature-associated residues and trends in temperature-associated residue properties and interactions.<br /><br /> Tuesday, December 13<br /> GHC 4405<br /> 12:00-12:40<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
 </td>
+</tr>
+<tr style="text-align: center;">
 <td>
 <h2>Information Retrieval: NERQ</h2>
 <img src="https://i.postimg.cc/52fWHP77/capstone-thumbnail-Dhruv-Arya.png" alt="Arya" />
@@ -207,6 +223,8 @@ padding-bottom: 25px;
 <p>Simon Knapp, Eric Youn, Rebecca Wilson</p>
 <p>The current military planning process is slow, and deliberate, and requires days or even weeks of dedicated staff personnel. Our solution attempts to solve this problem for artillery planning by applying reinforcement learning to develop agents that can rapidly develop courses of action and wargame various scenarios. On a broader scale, the simulation environment we are currently developing alongside the US Army Engineer Research and Design Center (ERDC) provides researchers a valuable tool in rapidly developing agents for other aspects of military planning. Our experiments explore the training methods for agents using this framework and how agents learn to apply indirect fires and ammunition selection in it.<br /><br /> Tuesday, December 13<br /> GHC 4405<br /> 2:00-2:40<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
 </td>
+</tr>
+<tr>
 <td>
 <h2 style="text-align: center;">Nudge</h2>
 <img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.postimg.cc/8cC1xN96/Screen-Shot-2022-11-29-at-10-32-14-PM-Hermes-Suen.png" alt="Suen" />
