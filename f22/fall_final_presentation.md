@@ -73,6 +73,8 @@ padding-bottom: 25px;
 <p>Bharani Ujjaini Kempaiah, Linyi Li</p>
 <p>Intelligent robotic agents that operate in human spaces must be capable of realizing and executing instructions that are conveyed in natural language via speech. Most existing vision and language benchmarks contain instructions in natural language via text and subsequently, models trained on these datasets also rely heavily on text as an intermediate medium to achieve grounding. In this work we aim to enhance the existing ALFRED benchmark by crowd-sourcing speech annotations for existing ALFRED demonstrations of household tasks. We build web interfaces to qualify crowdworkers before collecting speech annotations online. With these speech annotations we believe the research community can develop models that can power robots to achieve audio-visual grounding similar to how humans interact in the real world.<br /><br /> Thursday, December 6<br /> POS 153<br /> 11:50-12:30<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
 </td>
+</tr>
+<tr style="text-align: center;">
 <td>
 <h2>Learn-To-Race</h2>
 <img src="https://i.postimg.cc/W1Nxpdzx/simulator-ss-Tanay-Gangey.jpg" alt="Tanay" />
