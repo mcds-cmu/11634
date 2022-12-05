@@ -57,7 +57,7 @@ padding-bottom: 25px;
 <h2>Komatsu: Intelligent Longwalls</h2>
 <img src="https://i.postimg.cc/3JsgLYZb/komatsu-Anveshrithaa-Sundareswaran.png" alt="Komatsu" />
 <p>Anveshrithaa Sundareswaran, Ge Huang, Zhiyi Li, Zhouyang Li</p>
-<p>Komatsu is a leading manufacturer of mining equipment. Komatsu uses intelligent longwall systems that capture machine data from automated, connected machinery and transform it into useful decision-making knowledge to support decision-making in machine operation and maintenance. This project aims to apply machine learning to build and deploy pipelines for identifying correlations, patterns, and anomalies in longwall machines to improve the operational efficiency of the machines and reduce energy consumption.<br /><br /> Monday, December 5<br /> GHC 4405<br /> 1:00-1:40<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
+<p>Komatsu is a leading manufacturer of mining equipment. Komatsu uses intelligent longwall systems that capture machine data from automated, connected machinery and transform it into useful decision-making knowledge to support decision-making in machine operation and maintenance. This project aims to apply machine learning to build and deploy pipelines for identifying correlations, patterns, and anomalies in longwall machines to improve the operational efficiency of the machines and reduce energy consumption.<br /><br /> Monday, December 5<br /> GHC 4405<br /> 1:00-1:40<br /> <a href="https://youtu.be/9tw98inFvRY"> Presentation Recording</a></p>
 </td>
 <td>
 <h2>SimBot - Navigation and Interaction</h2>
