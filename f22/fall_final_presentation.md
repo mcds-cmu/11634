@@ -96,13 +96,13 @@ padding-bottom: 25px;
 <h2>ASML YieldStar: Particle / Defect Detection and Classification</h2>
 <img src="https://i.postimg.cc/hjN9HnBj/Screen-Shot-2022-11-19-at-8-42-22-PM-Yijia-Zhang.png" alt="Yijia" />
 <p>Mahalakshumi Visvanathan, Wei-Chieh Chen, Yijia Zhang</p>
-<p>YieldStar is an advanced wafer metrology technique provided by ASML. It is used to verify the quality of the produced wafer. However, even tiny errors could affect production since YieldStar has complicated and expensive optics. Currently, production technicians rely on their knowledge to catch defects. This process takes over 500 hours per year, which is very time-consuming. To improve production efficiency, we've proposed two major techniques to improve it: a classification Convolutional Neural Network (CNN), which can detect if a particle is present or not, and a Convolutional Auto-Encoder that can localize and measure the intensity of the particle.<br /><br /> Wednesday, December 7<br /> GHC 4405 <br /> 1:00-1:40<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
+<p>YieldStar is an advanced wafer metrology technique provided by ASML. It is used to verify the quality of the produced wafer. However, even tiny errors could affect production since YieldStar has complicated and expensive optics. Currently, production technicians rely on their knowledge to catch defects. This process takes over 500 hours per year, which is very time-consuming. To improve production efficiency, we've proposed two major techniques to improve it: a classification Convolutional Neural Network (CNN), which can detect if a particle is present or not, and a Convolutional Auto-Encoder that can localize and measure the intensity of the particle.<br /><br /> Wednesday, December 7<br /> GHC 4405 <br /> 1:00-1:40<br /> <a href="https://youtu.be/O5FtrPZTPxg"> Presentation Recording</a></p>
 </td>
 <td>
 <h2>Predicting Flatness Error with ASML Wafer Table</h2>
 <img src="https://i.postimg.cc/nhy4MZ5t/rep-image-Tz-Ruei-Liu.jpg" alt="Tz-Ruei-Liu" />
 <p>Tz-Ruei Liu, I-Tsun Cheng, Xinyan Xie</p>
-<p>At ASML, the flatness error of wafer tables is computed manually using a fixed formula. Although exact, the current system takes more than 5 minutes to compute all spec maps per sample, which is inefficient. In this work, we introduce a machine-learning method that predicts spec maps with sufficiently small errors while being substantially faster. We use U-Net and its variant SmaAt-UNet and show that they perform very effectively at our task. Equipped with attention and depthwise-separable convolutions, SmaAt-UNet achieves less than 2% error across all spec maps while taking only 30 seconds to compute, 10x faster than the current system.<br /><br /> Wednesday, December 7<br /> GHC 4405<br /> 1:40-2:20<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
+<p>At ASML, the flatness error of wafer tables is computed manually using a fixed formula. Although exact, the current system takes more than 5 minutes to compute all spec maps per sample, which is inefficient. In this work, we introduce a machine-learning method that predicts spec maps with sufficiently small errors while being substantially faster. We use U-Net and its variant SmaAt-UNet and show that they perform very effectively at our task. Equipped with attention and depthwise-separable convolutions, SmaAt-UNet achieves less than 2% error across all spec maps while taking only 30 seconds to compute, 10x faster than the current system.<br /><br /> Wednesday, December 7<br /> GHC 4405<br /> 1:40-2:20<br /> <a href="https://youtu.be/xquFhRnxd7c"> Presentation Recording</a></p>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -110,13 +110,13 @@ padding-bottom: 25px;
 <h2>Self Driving Databases Management System</h2>
 <img src="https://i.postimg.cc/NfFBbC7K/Screenshot-2022-11-28-at-11-04-06-PM-He-Wei-Lee.png" alt="Wei-Lee" />
 <p>Kushagra Singh, Lichen Jin, He-Wei Lee</p>
-<p>Our project presents the control plane for self-driving database systems -- a framework that orchestrates database tuning operations and manages resources for production database clusters hosted in heterogeneous environments.<br /><br /> Wednesday, December 7<br /> GHC 4405<br /> 2:20-3:00<br /> <a href= "https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
+<p>Our project presents the control plane for self-driving database systems -- a framework that orchestrates database tuning operations and manages resources for production database clusters hosted in heterogeneous environments.<br /><br /> Wednesday, December 7<br /> GHC 4405<br /> 2:20-3:00<br /> <a href= "https://youtu.be/F4_R-ib_H2U"> Presentation Recording</a></p>
 </td>
 <td>
 <h2>Autobatch - Ragged Tensor's Shape Representation and Efficient Computation</h2>
 <img src="https://i.postimg.cc/fL1jFrSM/autobatch-overview-Bowen-Chen.png" alt="Chen" />
 <p>Bowen Chen</p>
-<p>In this report, we will introduce a new shape representation of the Ragged Tensor, which is a typical input workload in NLP models. We will discuss: the design of Ragged Tensor Intermediate Representation (IR), the implementation of Ragged Tensor API upon Relax, a graph level optimization based on RaggedTensor IR, and an auto-batch user interface enabled by Ragged Tensor IR.<br /><br /> Wednesday, December 7<br /> GHC 4405<br /> 3:00-3:40<br /> <a href= "https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
+<p>In this report, we will introduce a new shape representation of the Ragged Tensor, which is a typical input workload in NLP models. We will discuss: the design of Ragged Tensor Intermediate Representation (IR), the implementation of Ragged Tensor API upon Relax, a graph level optimization based on RaggedTensor IR, and an auto-batch user interface enabled by Ragged Tensor IR.<br /><br /> Wednesday, December 7<br /> GHC 4405<br /> 3:00-3:40<br /> <a href= "https://youtu.be/iAMo87tRgUA"> Presentation Recording</a></p>
 </td>
 <td>
 <h2>Secure NLP Inference</h2>
