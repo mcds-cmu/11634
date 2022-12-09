@@ -122,7 +122,7 @@ padding-bottom: 25px;
 <h2>Secure NLP Inference</h2>
 <img src="https://i.postimg.cc/HxzpxqHt/Screenshot-2022-11-23-at-10-54-04-PM-Shreya-Sharma.png" alt="Sharma" />
 <p>Shreya Sharma</p>
-<p>With the advent of cloud computing benefits such as elasticity and availability at affordable rates, a large number of machine learning workloads are migrating to the cloud for operations. However, in this paradigm, sensitive data may be leaked to service providers if they are curious or compromised. This project aims at making existing NLP models oblivious, i.e., enabling secure inference on a trained BERT model without revealing any information about the client input data. Such a service can find uses in audits or private contract reviews, and entity recognition.<br /><br /> Thursday, December 8<br /> POS 153 <br /> 8:35-9:15<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
+<p>With the advent of cloud computing benefits such as elasticity and availability at affordable rates, a large number of machine learning workloads are migrating to the cloud for operations. However, in this paradigm, sensitive data may be leaked to service providers if they are curious or compromised. This project aims at making existing NLP models oblivious, i.e., enabling secure inference on a trained BERT model without revealing any information about the client input data. Such a service can find uses in audits or private contract reviews, and entity recognition.<br /><br /> Thursday, December 8<br /> POS 153 <br /> 8:35-9:15<br /> <a href="https://youtu.be/jnu_cP0SFq8"> Presentation Recording</a></p>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -130,13 +130,13 @@ padding-bottom: 25px;
 <h2>Data Augmentation for Information Retrieval</h2>
 <img src="https://i.postimg.cc/PrQwMYPN/da-poster-picture-Riddhi-Nisar.png" alt="Riddhi" />
 <p>Preksha Patel, Ramya Ramanathan, Riddhi Nisar, Sayani Kundu, Vivek Sourabh</p>
-<p>In our capstone, we aim to build a data augmentation module, which can be easily plugged into the pipeline of Information Retrieval frameworks. We also aim to finetune and improve the re-ranker in FlexNeuART using augmented data. We use the MS MARCO passage re-ranking dataset for this task and implement three categories of data augmentation techniques - rule-based, model-based, and query reformulation. We evaluate our results on the mean reciprocal rank (MRR) metric.<br /><br /> Thursday, December 8<br /> POS 153<br /> 9:15-9:55<br /> <a href= "https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
+<p>In our capstone, we aim to build a data augmentation module, which can be easily plugged into the pipeline of Information Retrieval frameworks. We also aim to finetune and improve the re-ranker in FlexNeuART using augmented data. We use the MS MARCO passage re-ranking dataset for this task and implement three categories of data augmentation techniques - rule-based, model-based, and query reformulation. We evaluate our results on the mean reciprocal rank (MRR) metric.<br /><br /> Thursday, December 8<br /> POS 153<br /> 9:15-9:55<br /> <a href= "https://youtu.be/GPrnSnHZghw"> Presentation Recording</a></p>
 </td>
 <td>
 <h2>Simbot Dialog and Language Generation</h2>
 <img src="https://i.postimg.cc/FR5ZR6G1/minimap-Shubham-Phal.png" alt="Phal" />
 <p>Shubham Phal, Nikhil Gupta, Prasoon Varshney, Shubham Virmani, Benny Jiang, Xinyue Chen</p>
-<p>Our work on the Simbot Challenge asks a basic question: How does language change when situated? How do objects in the environment and behaviors of people around us inform how language utterances are interpreted? Our project uses advanced NLP techniques to model a two-way free-form dialogue between a commander and a multimodal embodied agent to perform a plethora of complex tasks in a simulated environment.<br /><br /> Thursday, December 8<br /> POS 153 <br /> 11:50-1:10<br /> <a href= "https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
+<p>Our work on the Simbot Challenge asks a basic question: How does language change when situated? How do objects in the environment and behaviors of people around us inform how language utterances are interpreted? Our project uses advanced NLP techniques to model a two-way free-form dialogue between a commander and a multimodal embodied agent to perform a plethora of complex tasks in a simulated environment.<br /><br /> Thursday, December 8<br /> POS 153 <br /> 11:50-1:10<br /> <a href= "https://youtu.be/YlXZebG4y7E"> Presentation Recording</a></p>
 </td>
 <td>
 <h2>Programmable Storage</h2>
