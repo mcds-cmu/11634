@@ -82,7 +82,7 @@ padding-bottom: 25px;
 <td>
 <h2>EnvPool</h2>
 <img src="https://i.postimg.cc/0NRgGSmb/Screenshot-2022-11-22-at-11-03-41-Yukun-Jiang.png" alt="Yukun" width="768" height="314" />
-<p>Yukun Jiang, Leo Guo, Yufan Song, Ting Luo, Tianyi Sun, Peilin Rao,<br /><br /> EnvPool is a C++-based batched environment pool with pybind11 and thread pool. It has high performance (~1M raw FPS with Atari games, ~3M raw FPS with Mujoco simulator on DGX-A100) and compatible APIs (supports both gym and dm_env, both sync and async, both single and multiplayer environment)<br /><br /> Wednesday, December 7<br /> TEP 1403<br /> 10:10-10:50 <br /> <a href= "https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
+<p>Yukun Jiang, Leo Guo, Yufan Song, Ting Luo, Tianyi Sun, Peilin Rao,<br /><br /> EnvPool is a C++-based batched environment pool with pybind11 and thread pool. It has high performance (~1M raw FPS with Atari games, ~3M raw FPS with Mujoco simulator on DGX-A100) and compatible APIs (supports both gym and dm_env, both sync and async, both single and multiplayer environment)<br /><br /> Wednesday, December 7<br /> TEP 1403<br /> 10:10-10:50 <br /> <a href= ""> Presentation Recording Not Available</a></p>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -142,7 +142,7 @@ padding-bottom: 25px;
 <h2>Programmable Storage</h2>
 <img src="https://i.postimg.cc/2y1y4Lb9/system-diagram-Jiuzhi-Yu.png" alt="Jiuzhi" width="500" height="400" />
 <p>Jiuzhi Yu, Sumanth Rao</p>
-<p>With more data to analyze in this big data era, traditional CPU-centric processing is constrained by the large volume of data transferred between the storage system and memory. In the meantime, with the advances in the computational storage devices in the industry, we are seeing the potential of offloading computation to a storage device to optimize the applications which process large amounts of data.In this project, we explore the potential of offloading RocksDB compaction operations and demonstrate the performance gain for the operation itself and for the whole system.<br /><br /> Monday, December 12<br /> GHC 8102<br /> 10:00-10:40<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
+<p>With more data to analyze in this big data era, traditional CPU-centric processing is constrained by the large volume of data transferred between the storage system and memory. In the meantime, with the advances in the computational storage devices in the industry, we are seeing the potential of offloading computation to a storage device to optimize the applications which process large amounts of data.In this project, we explore the potential of offloading RocksDB compaction operations and demonstrate the performance gain for the operation itself and for the whole system.<br /><br /> Monday, December 12<br /> GHC 8102<br /> 10:00-10:40<br /> <a href="https://youtu.be/lPb9bJuscrc"> Presentation Recording</a></p>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -150,7 +150,7 @@ padding-bottom: 25px;
 <h2>Automated Sensemaking for Online Tasks</h2>
 <img src="https://i.postimg.cc/QCcGGjRx/highlevel2-Ye-Rin-Han.png" alt="Ye-Rin-Han" width="500" height="250" />
 <p>Shuyu Jiang, Ye Rin Han</p>
-<p>Skeema is an extension of the Google Chrome browser where users can manually organize their open tabs and nest them under user-defined tasks. We aim to enable Skeema to automatically categorize users' open tabs into tasks. We generate multiple features from the tab URL and title and build a Multi-layer Feed-forward Neural Network to experiment with different combinations of features. Using the distance matrix generated from the classifier, we create clusters of tabs through Agglomerative Clustering. The final clustering model achieves 0.8389 accuracy, and this result demonstrates that our approach to engineering the new features and model architecture is promising.<br /><br /> Monday, December 12<br /> GHC 8102<br /> 10:40-11:20<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
+<p>Skeema is an extension of the Google Chrome browser where users can manually organize their open tabs and nest them under user-defined tasks. We aim to enable Skeema to automatically categorize users' open tabs into tasks. We generate multiple features from the tab URL and title and build a Multi-layer Feed-forward Neural Network to experiment with different combinations of features. Using the distance matrix generated from the classifier, we create clusters of tabs through Agglomerative Clustering. The final clustering model achieves 0.8389 accuracy, and this result demonstrates that our approach to engineering the new features and model architecture is promising.<br /><br /> Monday, December 12<br /> GHC 8102<br /> 10:40-11:20<br /> <a href="https://youtu.be/V2rR7EFXRNA"> Presentation Recording</a></p>
 </td>
 <td>
 <h2>Intelligent Text-Conditioned Music Generation</h2>
