@@ -222,7 +222,7 @@ padding-bottom: 25px;
 <h2>AI2F: Artificial Intelligence Integrated Fires</h2>
 <img src="https://i.postimg.cc/2S1D4HNC/AI2F.png" alt="AI2F" />
 <p>Simon Knapp, Eric Youn, Rebecca Wilson</p>
-<p>The current military planning process is slow and deliberate and requires days or even weeks of dedicated staff personnel. Our solution attempts to solve this problem for artillery planning by applying reinforcement learning to develop agents that can rapidly develop courses of action and wargame various scenarios. On a broader scale, the simulation environment we are currently developing alongside the US Army Engineer Research and Design Center (ERDC) provides researchers with a valuable tool for rapidly developing agents for other aspects of military planning. Our experiments explore the training methods for agents using this framework and how agents learn to apply indirect fires and ammunition selection in it.<br /><br /> Tuesday, December 13<br /> GHC 4405<br /> 2:00-2:40<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
+<p>The current military planning process is slow and deliberate and requires days or even weeks of dedicated staff personnel. Our solution attempts to solve this problem for artillery planning by applying reinforcement learning to develop agents that can rapidly develop courses of action and wargame various scenarios. On a broader scale, the simulation environment we are currently developing alongside the US Army Engineer Research and Design Center (ERDC) provides researchers with a valuable tool for rapidly developing agents for other aspects of military planning. Our experiments explore the training methods for agents using this framework and how agents learn to apply indirect fires and ammunition selection in it.<br /><br /> Tuesday, December 13<br /> GHC 4405<br /> 2:00-2:40<br /> <a href="https://youtu.be/mYqM_RlELhk"> Presentation Recording</a></p>
 </td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ padding-bottom: 25px;
 <h2 style="text-align: center;">Nudge</h2>
 <img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.postimg.cc/8cC1xN96/Screen-Shot-2022-11-29-at-10-32-14-PM-Hermes-Suen.png" alt="Suen" />
 <p style="text-align: center;">Hermes Suen</p>
-<p style= "text-align: center;">Nudge is a project aimed at creating a platform for individuals, institutions, and organizations to invest in real-life behavior change. It is built on the assumption of memetic desire and social contagion and provides monetary rewards to creators of viral TikToks that are related to the desired behavior change.<br /><br /> Tuesday, December 13<br /> GHC 4405<br /> 2:40-3:20<br /> <a href="https://cmu.zoom.us/j/99052277357?pwd=M0dhSDVCQ2gra1VlM3d4YTV1VjVkdz09"> Zoom link</a></p>
+<p style= "text-align: center;">Nudge is a project aimed at creating a platform for individuals, institutions, and organizations to invest in real-life behavior change. It is built on the assumption of memetic desire and social contagion and provides monetary rewards to creators of viral TikToks that are related to the desired behavior change.<br /><br /> Tuesday, December 13<br /> GHC 4405<br /> 2:40-3:20<br /> <a href="https://youtu.be/C8Jp9Jm2RPs"> Presentation Recording</a></p>
 </td>
 </tr>
 </tbody>
