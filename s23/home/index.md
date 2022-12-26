@@ -1,15 +1,15 @@
 ---
-layout: f22
+layout: s23
 title: Home
 nav_order: 1
 has_children: true
 has_toc: false
-permalink: f22/index.html
+permalink: s23/index.html
 ---
 
-# 11-632: Data Science Capstone
+# 11-634: Capstone Planning Seminar
 
-## Fall 2022
+## Spring 2023
 
 ### Course Description
 

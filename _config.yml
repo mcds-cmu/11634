@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 11632 - Data Science Capstone
-tagline: Data Science Capstone
-description: The official course page for 11632 Data Science Capstone at CMU
+title: 11634 - Capstone Planning Seminar
+tagline: Capstone Planning Seminar
+description: The official course page for 11634 Capstone Planning Seminar at CMU
 author: Master of Computational Data Science at Carnegie Mellon University
-baseurl: '/11632' # the subpath of your site, e.g. /blog
+baseurl: '/11634' # the subpath of your site, e.g. /blog
 url: 'https://mcds-cmu.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
 logo: "/assets/images/CMU_MCDS_logo_Parent_Horizontal_Full-Color_PMS1024_1.png"
