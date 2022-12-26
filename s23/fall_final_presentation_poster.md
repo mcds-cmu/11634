@@ -1,5 +1,5 @@
 ---
-layout: f22
+layout: s23
 title: Fall Capstone Final Presentation Poster
 nav_order: 8
 ---

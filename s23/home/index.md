@@ -17,4 +17,4 @@ permalink: s23/index.html
 
 ## Who We Are
 
-{% include staff.md course_version="f22" %}
+{% include staff.md course_version="s23" %}

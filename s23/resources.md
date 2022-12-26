@@ -1,5 +1,5 @@
 <!-- ---
-layout: f22
+layout: s23
 title: Resources
 nav_order: 4
 ---

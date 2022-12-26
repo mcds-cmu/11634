@@ -1,5 +1,5 @@
 ---
-layout: f22
+layout: s23
 title: Schedule
 nav_order: 3
 ---

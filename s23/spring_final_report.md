@@ -1,5 +1,5 @@
 ---
-layout: f22
+layout: s23
 title: Spring Capstone Final Report
 nav_order: 9
 ---

@@ -1,5 +1,5 @@
 ---
-layout: f22
+layout: s23
 title: Syllabus
 nav_order: 2
 has_children: true
