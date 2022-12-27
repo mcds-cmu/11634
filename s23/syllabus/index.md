@@ -15,6 +15,7 @@ has_toc: false
 ## Time & Location
 
 Section A: MW 08 am - 09:20 am, POS 153
+
 Section B: MW 11 am - 12:20 pm, GHC 4102
 
 ## Course Format
@@ -38,7 +39,7 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 ## Course Schedule
 
 ## Grading
-Grading will consist of
+Grading will consist of:
 - Capstone Project Deliverables (60%)
   - Vision, Requirements, Design, Plan Documents, Midterm Proposal, Midterm Presentation Team Peer Review
 - Draft Report (10%)
