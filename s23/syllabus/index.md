@@ -8,235 +8,53 @@ has_toc: false
 
 # 11-632: Data Science Capstone - Syllabus
 
+### Course Description
+
+{% include syllabus/course_learning_outcomes.md %}
+
 ## Time & Location
 
-Section A: M/W 10:10 am – 11:30 am, TEP 1403
+Section A: MW 08 am - 09:20 am, POS 153
+Section B: MW 11 am - 12:20 pm, GHC 4102
 
-## Contents and Schedule
+## Course Format
 
-Student teams will work on their assigned Capstone projects under the supervision of the project advisor and, where applicable, in collaboration with other students/faculty. 
+At the beginning of the course, students will submit their information and resume/CV. In the subsequent weeks, students will have access to both live presentations and recorded videos for each of the candidate's projects. Students will then be asked to submit a list of project preferences. The MCDS Administration will assign teams to projects by matching the project sponsor's and student's preferences. 
 
-Class sessions are noted on the scheduled dates below. Professor Nyberg is available for office hours during class meeting time in the assigned classroom (TEP 1403). Teams are encouraged to come to class to work on their projects and/or ask questions. 
+Note: If you have proposed a self-identified project (i.e., have spoken to a faculty member, identified a topic, submitted a proposal, and formed a team / will work individually), please contact course staff within the first week. Each team will begin to work on their assigned project and commence weekly meetings with their project mentor. The course then provides several milestones throughout the semester where each team is required to submit a report and, in some cases, present and discuss their and others' work progress.
 
-All deliverables are **bolded**. Students are expected to meet as project teams at least once a week, record, and submit a 5 to 10-minute weekly standup. There are three evaluation milestones, a draft, and final report, and a final presentation.
+## Course Milestones
 
-All _italicized_ text is for your notice.
+- **Vision Document**. Document the motivation for the project - what problems does the proposed project attempt solve, and for what data set(s)? What is novel or unique about the proposed approach? How will success be measured? What is the expected impact (business or research value) if the project is successful? The Vision Document should clearly state Research Questions, General Hypotheses, and Specific (Testable) Hypotheses, along with an indication of how technical performance and/or business value will be measured.
+- **Requirements Document**. Document specific use cases (workflows and/or data flows) for the proposed solution. Analyze the data set(s) and provide a domain analysis which identifies the salient characteristics of the data domain and likely challenges (missing data, noise, skewed distributions, magnitude, drift, etc.). Identify (from a systems perspective) what computations will be required to clean, pre-process, prepare, and train models on the data set(s); what software modules must be designed and implemented, either from scratch or using existing toolkits; what metrics and measurement routines must be implemented or deployed using existing toolkits; user/case studies that will be undertaken to demonstrate business value; etc.
+- **Design and Plan Document**. Document a specific architecture (modules and data flow) to represent the cleaning pre-processing, model training, solution deployment, and solution evaluation phases for the proposed project. Provide a mapping from each use case in the requirements document to the workflows and modules that will support that use case. Identify which elements will be designed and coded by hand, implemented via existing frameworks / toolkits, or re-used from existing solutions. Create a work breakdown structure to indicate what development activities will be undertaken and at what times, by which team members. It should be clear from the plan how and when each element will be completed, how it will be evaluated, and how error analysis and refinement will be undertaken for each module as well as the entire end-to-end solution. Teams are strongly encouraged to complete a preliminary end-to-end implementation of each workflow in the solution, along with a corresponding error analysis, before the end of the semester. Preliminary results by mid-semester will be expected for any team that wishes to publish results at the end of Spring semester.
+- **Midterm Presentation**. Present the highlights of the vision, requirements, design and plan, along with any preliminary results, in a recorded video.
+- **Midterm Presentation Team Peer Review**.
+- **Draft Report**. Document all of the updates made to the vision/requirements/design and plan documents, with a focus on any remaining issues to be addressed in the Fall semester. Be sure to revisit the work breakdown structure in order to provide the most realistic plan possible for the remaining work. Summarize all experimental results achieved so far (with appropriate calculations of statistical significance), along with a discussion of performance gains versus prior state of the art, an analysis of known remaining error types, and suggestions for how to address known gaps in performance or specific error categories.
+- **Spring Final Presentation**. Present your vision, requirements, design and plan in a poster presentation, along with a summary of results so far and work remaining to be completed. The Poster Presentation will take place in a public venue (either in real life or in a virtual setting such as Gather Town) and all members of the SCS community (as well as MCDS alumni) will be invited to attend.
+- **Inner-team Peer Review**.
+- **Final Report**. Submit an update to your Draft Spring Report which incorporates: a) feedback received on your Draft Spring Report submission, and b) feedback received during your Spring Final Presentation.
 
-<table>
-  <thead>
-    <tr>
-      <th>Date</th>
-      <th>Activity</th>
-      <th><strong>Deliverable Due</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Aug 29</td>
-      <td>Introduction/Overview</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Aug 31</td>
-      <td>
-        Tutorials:
-        <ul>
-            <li>Fall Plan</li>
-            <li>How to do a Standup</li>
-        </ul>
-    </td>
-      <td><strong>Fall Plan Due Sep 4</strong></td>
-    </tr>
-    <tr>
-      <td>Sep 5</td>
-      <td colspan="2" style="text-align: center;">Labor Day (No Class)</td>
-    </tr>
-    <tr>
-      <td>Sep 7</td>
-      <td colspan="2" style="text-align: center;">Fall Plan Feedback</td>
-    </tr>
-    <tr>
-      <td>Sep 12</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Sep 14</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Sep 15</strong></td>
-    </tr>
-    <tr>
-      <td>Sep 19</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Sep 21</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Sep 22</strong></td>
-    </tr>
-    <tr>
-      <td>Sep 26</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Sep 28</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Sep 29</strong></td>
-    </tr>
-    <tr>
-      <td>Oct 3</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Oct 5</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Oct 6</strong></td>
-    </tr>
-    <tr>
-      <td>Oct 10</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Oct 12</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Oct 13</strong></td>
-    </tr>
-    <tr>
-      <td>Oct 17</td>
-      <td colspan="2" rowspan="2" style="text-align: center;">Fall Break (No Class)</td>
-    </tr>
-    <tr>
-      <td>Oct 19</td>
-    </tr>
-    <tr>
-      <td>Oct 24</td>
-      <td rowspan="2"><strong>Midterm Check-in with Prof. Nyberg (in-person and Zoom)<br>Schedule TBD</strong></td>
-      <td><i>Midterm Grades due to University Oct 24</i></td>
-    </tr>
-    <tr>
-      <td>Oct 26</td>
-      <td><strong>Midterm Inner-team Peer Review due Oct 27</strong></td>
-    </tr>
-    <tr>
-      <td>Oct 31</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Nov 2</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Nov 3</strong></td>
-    </tr>
-    <tr>
-      <td>Nov 7</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Nov 9</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Nov 10</strong></td>
-    </tr>
-    <tr>
-      <td>Nov 14</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Nov 16</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Nov 17<br>Draft Report Due Nov 20</strong></td>
-    </tr>
-    <tr>
-      <td>Nov 21</td>
-      <td rowspan="2" colspan="2" style="text-align: center;">Thanksgiving Break (No Class)</td>
-    </tr>
-    <tr>
-      <td>Nov 23</td>
-    </tr>
-    <tr>
-      <td>Nov 28</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><i>Draft Report Feedback will be returned by Nov 28</i></td>
-    </tr>
-    <tr>
-      <td>Nov 30</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Dec 1</strong></td>
-    </tr>
-    <tr>
-      <td>Dec 5</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Dec 7 - Dec 14</td>
-      <td colspan="2" style="text-align: center;"><strong>MCDS Capstone Final Presentation</strong></td>
-    </tr>
-    <tr>
-      <td>Dec 15</td>
-      <td colspan="2" style="text-align: center;"><strong>Team Peer Review Due<br>Final Report Due<br>Final Inner-team Peer Review Due</strong></td>
-    </tr>
-    <tr>
-      <td>Dec 21</td>
-      <td colspan="2" style="text-align: center;"><i>Final Grades due to University</i></td>
-    </tr>
-  </tbody>
-</table>
+## Course Schedule
 
-## Assessment
+## Grading
+Grading will consist of
+- Capstone Project Deliverables (60%)
+  - Vision, Requirements, Design, Plan Documents, Midterm Proposal, Midterm Presentation Team Peer Review
+- Draft Report (10%)
+- Spring Final Presentation (10%)
+- Inner-team Peer Review (5%)
+- Final Report (15%)
 
-The grade will consist of an assessment of both the quality of the data science experiment, its results, the technical process over the course of the semester as well as your evaluation by your peers.
+Deliverables will be assigned a team grade, and it is essential that all members of a team make efforts to collaborate effectively. Above or below average individual work may put individual grades ahead or below the group grade only by a small margin. We expect everyone not to isolate themselves and make a good faith effort on a regular basis to coordinate/engage with their teammates, share their insights, and make sure everyone can contribute. Individuals will be assigned project grades based on the team grade and peer evaluations.
 
-The course grade will be based on the following:
-- Fall Plan (required, feedback provided): 0%
-- Weekly standups (start September 15): 10%
-- Midterm check-in: 10%
-- The draft report is expected to be content-complete, i.e., no missing results, no missing sections, no text with grammatical issues as well as understandable diagrams and proper treatment of related work: 10%
-- Final report is where you work out issues that arise during your final presentation, which will be graded as if it were submitted to a peer-reviewed workshop. **You will also receive reviews from 11-631 students**: 30%
-- Final presentation: 30%
-- Team Peer Review: 5%
-- Midterm Inner-team Peer Review: 2.5%
-- Final Inner-team Peer Review: 2.5%
+## Attendance Policy
+The course only meets as stated in the schedule to provide ample time for dedicated project work and weekly meetings with the project mentor. Each student is permitted one absence for the semester. It may only be taken for a session in which the student’s team is not presenting. Interview appointments are not considered valid excuses for absences beyond this allowance.
 
-Students are expected to take ownership of the project, take the initiative in driving the development forward and autonomously seek help when getting stuck. If requirements are unclear at any point, please talk to your project mentor or the instructors. For a detailed rubric of how the system, experiment, and results are assessed, you will be directed to the grading criteria document as posted on Canvas during the semester.
+## Peer Review Assessment
+Each deliverable will include a peer review process. The peer review will contain questions about your contributions to the deliverable, your perception of your team member’s contributions, and feedback on project management and project process (e.g. areas where the team can improve from deliverable to deliverable).
 
-## Technical Process Criteria
-
-The Capstone project is also an exercise in proper software engineering. Your technical process evaluation will consider the following factors:
-
-- Every project is required to use a GitHub or bitbucket repository.
-- Every team member is expected to produce regular and sensible commits.
-- To do items and nontrivial ongoing tasks are to be organized and documented in the GitHub issue system. This documentation is particularly important for planning milestones and action items produced during weekly meetings.
-- Documentation must include a plan with timelines and milestones. Time and labor estimates for tasks are also a critical part of a project plan.
-- Any documentation that will be needed on an ongoing basis (e.g., APIs, file formats, etc.) is to be kept in the GitHub repository readme and/or wiki pages.
-- Code quality will be accounted for by the mentor and/or peer review.
-
-## Weekly Standups
-A standup is a casual check-in to share your team’s progress update. It is not supposed to be a polished presentation. Simply share your screen and brief us on what has been happening. Be authentic with what your team’s current progress is and what your team is dealing with. Doing so allows us to provide you with timely support if needed.
-
-Each team is required to submit a standup on a weekly basis according to the course schedule. Students submit standups by recording a 5 to 10-minute video.
-
-## Midterm Check-in
-
-Midterm check-in is a standup-style, in-person (or synchronous via Zoom) meeting with professor Nyberg. The schedule for these meetings will be posted on Piazza.
-
-## Inner-team Peer Review Assessment
-
-To facilitate a fair distribution of work among team members, **each midterm** and **final** assessment includes a peer review. It includes
-- Evaluation of one's own and other’s contributions to the project.
-- Comments about my own contribution to peers.
-- Comments to peers about peer contribution.
-- Comments to instructors about their own and others’ contributions.
-
-## Team Peer Review
-
-Each student is required to attend at least one final presentation of another team and submit a brief review of this team’s presentation. Students will have the chance to submit their preference for the team to review according to their schedule suitability.
+Participation will be mandatory, and individual grades will be influenced by peer review outcomes.
 
 ## Academic Integrity
-
-For all presentations and the final report, students share work with their teammates. Both presentations and reports need to make clear at all times the students’ contributions and those parts that have been influenced, taken, adapted, or otherwise derived from prior work. Any such additional material must be properly cited in the report and on the presentation slides. This citation material includes related academic writing (even if published by a collaborator of the project), diagrams, datasets, prior Capstone project reports, video tutorials, scientific blog posts, and technical components such as algorithms, libraries, and the like. When a source’s text is paraphrased, it needs to be referenced. If it is reused verbatim, it must be quoted.
+For all presentations and the final report, students share work with their teammates. Both presentations and reports need to make clear at all times the students’ contributions and those parts that have been influenced, taken, adapted or otherwise derived from prior work. Any such additional material must be properly cited in the report and on the presentation slides. This citation material includes related academic writing (even if published by a collaborator of the project), diagrams, datasets, prior Capstone project reports, video tutorials, scientific blog posts, and technical components such as algorithms, libraries, and among others. When a source’s text is paraphrased, it needs to be referenced. If it is reused verbatim, it must be quoted (i.e. put into quotation marks and annotated with a reference).
