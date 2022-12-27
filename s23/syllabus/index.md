@@ -6,9 +6,9 @@ has_children: true
 has_toc: false
 ---
 
-# 11-632: Data Science Capstone - Syllabus
+# 11-634: Capstone Planning Seminar - Syllabus
 
-### Course Description
+## Course Description
 
 {% include syllabus/course_learning_outcomes.md %}
 
