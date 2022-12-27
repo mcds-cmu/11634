@@ -11,7 +11,7 @@ permalink: s23/index.html
 
 ## Spring 2023
 
-### Course Description
+## Course Description
 
 {% include syllabus/course_learning_outcomes.md %}
 
