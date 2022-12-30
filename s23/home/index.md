@@ -2,7 +2,7 @@
 layout: s23
 title: Home
 nav_order: 1
-has_children: true
+has_children: false
 has_toc: false
 permalink: s23/index.html
 ---
