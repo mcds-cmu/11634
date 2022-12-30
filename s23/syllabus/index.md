@@ -2,7 +2,7 @@
 layout: s23
 title: Syllabus
 nav_order: 2
-has_children: true
+has_children: false
 has_toc: false
 ---
 
@@ -40,9 +40,9 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 
 - **Draft Report Revision (Optional)**. After reviewing feedback for the draft, you will have the opportunity to revise the draft and submission a revision of the draft for regrading. This is optional, but we encourage you to take advantage of this opportunity to learn from the feedback and produce a better version of the draft.
 
-To be eligible for the revision draft submission, your initial draft report submission must receive at least a grade of 70%, AND your designated TA must recommend you. This means that the original draft you submit must be of substantial and authentic work and that the revised version would be a revised version of the draft report and not used as a time extension mechanism.
+  To be eligible for the revision draft submission, your initial draft report submission must receive at least a grade of 70%, AND your designated TA must recommend you. This means that the original draft you submit must be of substantial and authentic work and that the revised version would be a revised version of the draft report and not used as a time extension mechanism.
 
-If you submit the revision, your grade for the draft report will be the grade of the revised draft. If you choose not to submit a revision, your grade will be the original grade of the first draft report submission. We strive to give you feedback as quickly as possible to give you sufficient time to review and revise the draft.
+  If you submit the revision, your grade for the draft report will be the grade of the revised draft. If you choose not to submit a revision, your grade will be the original grade of the first draft report submission. We strive to give you feedback as quickly as possible to give you sufficient time to review and revise the draft.
 
 - **Spring Final Presentation**. Present your vision, requirements, design and plan in a short presentation, along with a summary of results so far and work remaining to be completed. The presentations will take place in a public venue; all members of the SCS community (as well as MCDS alumni) and the project mentors will be invited to attend.
 
@@ -58,7 +58,7 @@ See the [Course Calendar]({{ site.baseurl }}{{ page.subpath }}{% link s23/schedu
 
 ## Grading
 Grading will consist of:
-- Capstone Project Deliverables
+- **Capstone Project Deliverables**
   - Vision Document (10%)
   - Requirements Document (10%)
   - Design Document (10%)
@@ -67,7 +67,7 @@ Grading will consist of:
   - Draft Report (10%)
   - Final Report (15%)
   - Spring Final Presentation (10%)
-- Peer Review 
+- **Peer Reviews**
   - Midterm Presentation Team Peer Review (5%)
   - Final Presentation Team Peer Review (5%)
   - Inner-team Peer Review (5%)
