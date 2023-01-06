@@ -7,3 +7,4 @@ photo: staff/fangzhex.jpg
 website: https://frankxfz.me/
 staff_for: [s23]
 ---
+LTI PhD
