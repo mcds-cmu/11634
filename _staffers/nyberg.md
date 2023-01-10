@@ -7,3 +7,4 @@ list_order: 1
 photo: staff/prof-nyberg.png
 staff_for: [s23]
 ---
+GHC 6715
