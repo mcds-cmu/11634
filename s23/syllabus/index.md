@@ -59,20 +59,24 @@ See the [Course Calendar]({{ site.baseurl }}{{ page.subpath }}{% link s23/schedu
 ## Grading
 
 Grading will consist of:
+
 **Capstone Project Deliverables**
-- Vision Document (10%)
-- Requirements Document (10%)
-- Design Document (10%)
-- Plan Document (10%)
-- Midterm Presentation (10%)
-- Draft Report (10%)
-- Final Report (15%)
-- Spring Final Presentation (10%)
+
+  - Vision Document (10%)
+  - Requirements Document (10%)
+  - Design Document (10%)
+  - Plan Document (10%)
+  - Midterm Presentation (10%)
+  - Draft Report (10%)
+  - Final Report (15%)
+  - Spring Final Presentation (10%)
+
 **Peer Reviews**
+
 - Midterm Presentation Team Peer Review (5%)
-- Final Presentation Team Peer Review (5%)
-- Midterm Inner-team Peer Review (2.5%)
-- Final Inner-team Peer Review (2.5%)
+  - Final Presentation Team Peer Review (5%)
+  - Midterm Inner-team Peer Review (2.5%)
+  - Final Inner-team Peer Review (2.5%)
 
 Deliverables will be assigned a team grade, and it is essential that all members of a team make efforts to collaborate effectively. Above or below-average individual work may put individual grades ahead or below the group grade only by a small margin. We expect everyone not to isolate themselves and make a good faith effort on a regular basis to coordinate/engage with their teammates, share their insights, and make sure everyone can contribute. Individuals will be assigned project grades based on the team grade and peer evaluations.
 
