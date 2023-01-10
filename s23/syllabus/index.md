@@ -57,8 +57,9 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 See the [Course Calendar]({{ site.baseurl }}{{ page.subpath }}{% link s23/schedule.md %}) for the tentative schedule. Specific deadlines are posted on Canvas.
 
 ## Grading
+
 Grading will consist of:
-- **Capstone Project Deliverables**
+**Capstone Project Deliverables**
  - Vision Document (10%)
  - Requirements Document (10%)
  - Design Document (10%)
@@ -67,7 +68,7 @@ Grading will consist of:
  - Draft Report (10%)
  - Final Report (15%)
  - Spring Final Presentation (10%)
-- **Peer Reviews**
+**Peer Reviews**
  - Midterm Presentation Team Peer Review (5%)
  - Final Presentation Team Peer Review (5%)
  - Midterm Inner-team Peer Review (2.5%)
@@ -76,9 +77,11 @@ Grading will consist of:
 Deliverables will be assigned a team grade, and it is essential that all members of a team make efforts to collaborate effectively. Above or below-average individual work may put individual grades ahead or below the group grade only by a small margin. We expect everyone not to isolate themselves and make a good faith effort on a regular basis to coordinate/engage with their teammates, share their insights, and make sure everyone can contribute. Individuals will be assigned project grades based on the team grade and peer evaluations.
 
 ## Attendance Policy
+
 The course only meets as stated in the schedule to provide ample time for dedicated project work and weekly meetings with the project mentor. Each student is permitted **one** absence for the semester. It may only be taken for a session in which the student's team is not presenting. Interview appointments are not considered valid excuses for absences beyond this allowance.
 
 ## Inner-team Peer Review Assessment
+
 To facilitate a fair distribution of work among team members, each midterm and final assessment includes a peer review. These reviews are individual assignments. The review asks for three main points, how you contributed to the project, how your peers contributed to the project, and how you contributed to your peer's learning. All questions are short-answer questions and require no numerical evaluation.
 
 You must provide substantive answers to each question to receive marks for the answers. In particular, you must give concrete examples for each point and provide constructive feedback on fixing the problems.
@@ -92,4 +95,5 @@ Data from the inner-team peer reviews (how your peers responded to each prompt) 
 Participation will be mandatory, and individual grades will be influenced by peer review outcomes.
 
 ## Academic Integrity
+
 For all presentations and the final report, students share their work with their teammates. Both presentations and reports need to make clear at all times the students' contributions and those parts that have been influenced, taken, adapted, or otherwise derived from prior work. Any such additional material must be properly cited in the report and on the presentation slides. This citation material includes related academic writing (even if published by a collaborator of the project), diagrams, datasets, prior Capstone project reports, video tutorials, scientific blog posts, and technical components such as algorithms, libraries, and among others. When a source's text is paraphrased, it needs to be referenced. If it is reused verbatim, it must be quoted (i.e., put into quotation marks and annotated with a reference).
