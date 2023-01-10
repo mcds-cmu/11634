@@ -7,4 +7,4 @@ photo: staff/varun.jpg
 website: https://www.linkedin.com/in/varunagarw/
 staff_for: [s23]
 ---
-MSCV
+MSE
