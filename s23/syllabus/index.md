@@ -62,10 +62,11 @@ Grading will consist of:
 
 **Capstone Project Deliverables**
 
+- Weekly Standups: (5%)
 - Vision Document (10%)
 - Requirements Document (10%)
-- Design Document (10%)
-- Plan Document (10%)
+- Design Document (5%)
+- Plan Document (5%)
 - Midterm Presentation (10%)
 - Draft Report (10%)
 - Final Report (15%)
@@ -79,6 +80,11 @@ Grading will consist of:
 - Final Inner-team Peer Review (2.5%)
 
 Deliverables will be assigned a team grade, and it is essential that all members of a team make efforts to collaborate effectively. Above or below-average individual work may put individual grades ahead or below the group grade only by a small margin. We expect everyone not to isolate themselves and make a good faith effort on a regular basis to coordinate/engage with their teammates, share their insights, and make sure everyone can contribute. Individuals will be assigned project grades based on the team grade and peer evaluations.
+
+## Weekly Standups
+A standup is a casual check-in to share your team’s progress update. It is not supposed to be a polished presentation. Simply share your screen and brief us on what has been happening. Be authentic with what your team’s current progress is and what your team is dealing with. Doing so allows us to provide you with timely support if needed.
+
+Each team is required to submit a standup on a weekly basis according to the course schedule. Students submit standups by recording a 5 to 10-minute video.
 
 ## Attendance Policy
 
