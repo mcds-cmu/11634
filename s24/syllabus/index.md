@@ -139,10 +139,11 @@ Deliverables will be assigned a team grade, and it is essential that all members
 In our team-based academic settings, it is recognized that uniform grading may not always reflect individual contributions. Hence, instructors have the discretion to modify a student's grade relative to the team's collective grade. This adjustment is grounded in a thorough evaluation of various factors such as the student's effort, active participation in course work, professionalism, ability to work collaboratively, and demonstration of a growth mindset.
 
 **Grading Methodology**
-*Score Normalization:* Our grading process begins with the normalization of scores using statistical techniques. This approach reshapes the distribution of scores into a bell curve format. Instructors then anchor the median score with a specific grade. The grades for other scores are determined based on their relative position to this median.
-*Score Distribution Analysis:* Following normalization, instructors analyze the distribution of scores. They identify distinct clusters and breaks in the score distribution, utilizing these gaps as benchmarks for grade assignment.
+
+*Score Normalization:* Our grading process begins with the normalization of scores using statistical techniques to calculate the mean and variance. Individual grades are determined based on the standard deviations from the mean.
 
 **Exceptional Performance Recognition**
+
 We reserve the highest accolade, the 'A+' grade, for students who not only secure top marks but also demonstrate significant research impact. This decision is made collectively by course instructors and mentors, ensuring a fair and comprehensive assessment of each student's academic prowess.
 
 ## Attendance Policy
@@ -171,4 +172,4 @@ Ensuring the integrity of your work through proper citations is not only a schol
 
 ## Assignment Submission Confidentiality and Use for Course Improvement
 
-All assignment submissions for this course will be utilized for course analytics and to enhance future course offerings. These submissions will remain confidential and will not be made publicly available, unless express written consent is provided by at least one of the authors of the submitted work.
+All assignment submissions for this course will be utilized for course analytics and to enhance future course offerings. These submissions will remain confidential and will not be made publicly available, unless express written consent is provided by the authors of the submitted work.
