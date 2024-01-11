@@ -7,7 +7,7 @@ nav_order: 5
 # Links
 ## Course links
 
-Canvas (Spring 2024): [https://canvas.cmu.edu/courses/32769](https://canvas.cmu.edu/courses/32769) <br />
+Canvas (Spring 2024): [https://canvas.cmu.edu/courses/39508](https://canvas.cmu.edu/courses/39508) <br />
 Piazza: accessed through Canvas <br />
 Gradescope: accessed through Canvas <br />
 Perusall: accessed through Canvas

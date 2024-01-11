@@ -22,7 +22,11 @@ At the beginning of the course, students will submit their information and resum
 
 Note: If you have proposed a self-identified project (i.e., have spoken to a faculty member, identified a topic, submitted a proposal, and formed a team / will work individually), please contact course staff within the first week. Each team will begin to work on their assigned project and commence weekly meetings with their project mentor. The course then provides several milestones throughout the semester where each team is required to submit a report and, in some cases, present and discuss their and others' work progress.
 
-## Course Milestones
+## Course Assessments
+
+- **Weekly Standups**. Standups are informal sessions for teams to update on their progress, focusing on authenticity rather than polished presentations, allowing for timely support based on current challenges and developments.
+
+- **Weekly Fellow Feedback on Standups**. Each student, as a Fellow, must provide detailed, rubric-guided feedback on a team's weekly standups, submitting at least three substantial comments per week on the presentation slides for evaluation and grading accuracy.
 
 - **Vision Document**. Document the motivation for the project - what problems does the proposed project attempt to solve, and for what data set(s)? What is novel or unique about the proposed approach? How will success be measured? What is the expected impact (business or research value) if the project is successful? The Vision Document should clearly state Research Questions, General Hypotheses, and Specific (Testable) Hypotheses, along with an indication of how technical performance and/or business value will be measured.
 
@@ -46,7 +50,25 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 
 - **Final Presentation Peer Review**. Each student is required to attend at least one Spring final presentation of another team and submit a brief review of this team's presentation. Students will have the chance to submit their preference for the team to review according to their schedule suitability.
 
-- **End-of-Semester Internal Evaluation**. Reflect on your contribution to your peer(s)' learning and the overall project, and evaluate peer(s)' contribution to the project.
+- # End-of-Semester Internal Evaluation
+
+To facilitate a fair distribution of work among team members, our assessment process includes a peer review component, conducted exclusively at the end of the semester. This peer review is an individual assignment, integral to the final assessment, focusing on three key aspects:
+
+**Your Contribution to the Project:** Detailing the roles and responsibilities you undertook and your direct impact on the project's progress.
+
+**Peers’ Contribution to the Project:** Providing insights into each team member's contributions. Despite the potential challenge in larger teams, it’s vital to acknowledge and reflect on every member’s involvement.
+
+**Contribution to Peer Learning:** Assessing how you and your peers have facilitated each other's learning throughout the project.
+
+To ensure a meaningful review, you are required to provide substantive, reflective answers to each question. Your responses should include specific examples and constructive criticism aimed at problem-solving and improvement.
+
+The quality of your feedback is a significant component of your grade. Effective feedback benefits both the giver and the receiver, fostering a deeper understanding and improvement. As such, thoughtful and considerate responses are encouraged.
+
+Your review, which will be shared with all team members, should be constructive, respectful, and considerate.
+
+Furthermore, anonymized data from these peer reviews will be made available to all students. This initiative aims to provide insights into team dynamics and encourage discussions on collaborative improvement.
+
+Participation in this peer review is mandatory, and it will substantially influence your individual grade. This policy underscores our commitment to fostering a collaborative learning environment where every member's contribution is valued and assessed fairly.
 
 - **Individual Growth**. Each student is required to define and communicate their personal learning objectives, which they aim to achieve throughout the capstone experience. Additionally, they are to compose a short report that demonstrates their reflective thinking and ongoing efforts towards self-improvement and skill enhancement. This concise report should detail how their experiences in the capstone project have contributed to meeting these learning goals.
 
@@ -56,23 +78,35 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 
 See the [Course Calendar]({{ site.baseurl }}{{ page.subpath }}{% link s24/schedule.md %}) for the tentative schedule. Specific deadlines are posted on Canvas.
 
+## Weekly Fellow Feedback on Standups
+
+Each student will be assigned as a Fellow to a team, with the responsibility of providing feedback on their weekly standups.
+To complete the Weekly Standup Fellow Feedback process:
+
+- Access the Standups Evaluation Rubric: This can be found on Canvas, where you'll get the guidelines for evaluating the presentations.
+
+- Attend and Comment on the Presentation on Persuall: Watch the team's standup presentation and leave comments on their presentation slides. Use the provided rubric as a guide for your feedback. Note that assigning a score to the team is not required.
+
+- Provide Detailed Feedback: Each week, you are expected to submit a minimum of three high-quality comments. Each comment should be well thought out and detailed, ranging from 50-100 words. It's important to distribute your comments evenly throughout the presentation. Your feedback will be assessed using Persuall's quality algorithm, and there will be a manual inspection after the deadline to ensure grading accuracy.
+
 ## Grading
 
 Grading will consist of:
 
 **Capstone Project Deliverables**
 
-- Weekly Standups:
-- Vision Document:
-- Requirements Document:
-- Design Document:
-- Plan Document:
-- Midterm Presentation:
-- Draft Report:
-- Final Report:
-- Spring Final Presentation:
-- End-of-Semester Internal Evaluation:
-- Individual Growth:
+- Weekly Standups:	5%
+- Weekly Fellow Feedback on Standups:	5%
+- Vision Document:	10%
+- Requirements Document:	10%
+- Design Document:	5%
+- Plan Document:	5%
+- Midterm Presentation:	5%
+- Draft Report:	5%
+- Final Report:	15%
+- Spring Final Presentation:	20%
+- End-of-Semester Internal Evaluation:	5%
+- Individual Growth:	10%
 
 Deliverables will be assigned a team grade, and it is essential that all members of a team make efforts to collaborate effectively. Above or below-average individual work may put individual grades ahead or below the group grade only by a small margin. We expect everyone not to isolate themselves and make a good faith effort on a regular basis to coordinate/engage with their teammates, share their insights, and make sure everyone can contribute. Individuals will be assigned project grades based on the team grade and peer evaluations.
 
@@ -89,33 +123,11 @@ In our team-based academic settings, it is recognized that uniform grading may n
 **Exceptional Performance Recognition**
 We reserve the highest accolade, the 'A+' grade, for students who not only secure top marks but also demonstrate significant research impact. This decision is made collectively by course instructors and mentors, ensuring a fair and comprehensive assessment of each student's academic prowess.
 
-## Weekly Standups
-
-A standup is a casual check-in to share your team’s progress update. It is not supposed to be a polished presentation. Simply share your screen and brief us on what has been happening. Be authentic with what your team’s current progress is and what your team is dealing with. Doing so allows us to provide you with timely support if needed.
-
 ## Attendance Policy
 
 Attendance at all class meetings is mandatory. Our class sessions are specifically designed for lectures, in-class standups, and presentations. Experience from previous cohorts strongly indicates that regular attendance is crucial for both the success of the team and the individual growth of each student. Therefore, each student is expected to attend every session as scheduled.
 
 In recognition of the unpredictable nature of circumstances, each student will be allowed **one** absence per semester. This absence is permissible only for sessions where the student's team is not scheduled to present. It should be noted that interview appointments or similar commitments are not considered valid reasons for additional absences beyond this single allowance.
-
-## End-of-Semester Internal Evaluation
-
-To facilitate a fair distribution of work among team members, our assessment process includes a peer review component, conducted exclusively at the end of the semester. This peer review is an individual assignment, integral to the final assessment, focusing on three key aspects:
-
-**Your Contribution to the Project:** Detailing the roles and responsibilities you undertook and your direct impact on the project's progress.
-**Peers’ Contribution to the Project:** Providing insights into each team member's contributions. Despite the potential challenge in larger teams, it’s vital to acknowledge and reflect on every member’s involvement.
-**Contribution to Peer Learning:** Assessing how you and your peers have facilitated each other's learning throughout the project.
-
-To ensure a meaningful review, you are required to provide substantive, reflective answers to each question. Your responses should include specific examples and constructive criticism aimed at problem-solving and improvement.
-
-The quality of your feedback is a significant component of your grade. Effective feedback benefits both the giver and the receiver, fostering a deeper understanding and improvement. As such, thoughtful and considerate responses are encouraged.
-
-Your review, which will be shared with all team members, should be constructive, respectful, and considerate.
-
-Furthermore, anonymized data from these peer reviews will be made available to all students. This initiative aims to provide insights into team dynamics and encourage discussions on collaborative improvement.
-
-Participation in this peer review is mandatory, and it will substantially influence your individual grade. This policy underscores our commitment to fostering a collaborative learning environment where every member's contribution is valued and assessed fairly.
 
 ## Academic Integrity
 
@@ -134,3 +146,7 @@ Appropriate citation must cover a wide range of materials, including but not lim
 Paraphrasing: When the text from a source is paraphrased (i.e., rewritten in your own words), it is essential to cite the original source to acknowledge its influence on your work.
 Direct Quotation: If a piece of text is used verbatim (exactly as it appears in the source), it must be placed within quotation marks and accompanied by a specific reference to its origin.
 Ensuring the integrity of your work through proper citations is not only a scholarly requirement but also a mark of respect for the intellectual property of others. This practice is central to upholding academic honesty and fostering a culture of responsibility and ethical scholarship in our academic community.
+
+## Assignment Submission Confidentiality and Use for Course Improvement
+
+All assignment submissions for this course will be utilized for course analytics and to enhance future course offerings. These submissions will remain confidential and will not be made publicly available, unless express written consent is provided by at least one of the authors of the submitted work.
