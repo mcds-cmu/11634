@@ -24,31 +24,61 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 
 ## Course Assessments
 
-- **Weekly Standups**. Standups are informal sessions for teams to update on their progress, focusing on authenticity rather than polished presentations, allowing for timely support based on current challenges and developments.
+- ### Weekly Standups
 
-- **Weekly Fellow Feedback on Standups**. Each student, as a Fellow, must provide detailed, rubric-guided feedback on a team's weekly standups, submitting at least three substantial comments per week on the presentation slides for evaluation and grading accuracy.
+    Standups are informal sessions for teams to update on their progress, focusing on authenticity rather than polished presentations, allowing for timely support based on current challenges and developments.
 
-- **Vision Document**. Document the motivation for the project - what problems does the proposed project attempt to solve, and for what data set(s)? What is novel or unique about the proposed approach? How will success be measured? What is the expected impact (business or research value) if the project is successful? The Vision Document should clearly state Research Questions, General Hypotheses, and Specific (Testable) Hypotheses, along with an indication of how technical performance and/or business value will be measured.
+- ### Weekly Fellow Feedback on Standups
 
-- **Requirements Document**. Document specific use cases (workflows and/or data flows) for the proposed solution. Analyze the data set(s) and provide a domain analysis that identifies the salient characteristics of the data domain and likely challenges (missing data, noise, skewed distributions, magnitude, drift, etc.). Identify (from a systems perspective) what computations will be required to clean, pre-process, prepare, and train models on the data set(s); what software modules must be designed and implemented, either from scratch or using existing toolkits; what metrics and measurement routines must be implemented or deployed using existing toolkits; user/case studies that will be undertaken to demonstrate business value; etc.
+    Each student will be assigned as a Fellow to a team, with the responsibility of providing feedback on their weekly standups.
 
-- **Design and Plan Document**. Document a specific architecture (modules and data flow) to represent the cleaning pre-processing, model training, solution deployment, and solution evaluation phases for the proposed project. Provide a mapping from each use case in the requirements document to the workflows and modules that will support that use case. Identify which elements will be designed and coded by hand, implemented via existing frameworks / toolkits, or reused from existing solutions. Create a work breakdown structure to indicate what development activities will be undertaken and, at what times, by which team members. It should be clear from the plan how and when each element will be completed, how it will be evaluated, and how error analysis and refinement will be undertaken for each module, as well as the entire end-to-end solution. Teams are strongly encouraged to complete a preliminary end-to-end implementation of each workflow in the solution, along with a corresponding error analysis, before the end of the semester. Preliminary results by mid-semester will be expected for any team that wishes to publish results at the end of the Spring semester.
+    To complete the Weekly Standup Fellow Feedback process:
 
-- **Midterm Presentation**. Present the highlights of the vision, requirements, design, and plan, along with any preliminary results, in a recorded video.
+    - Access the Standups Evaluation Rubric: This can be found on Canvas, where you'll get the guidelines for evaluating the presentations.
 
-- **Midterm Presentation Peer Review**. Attend at least one peer team's midterm presentation video and submit a brief review of the team(s) 's presentation on Persuall. 
+    - Attend and Comment on the Presentation on Persuall: Watch the team's standup presentation and leave comments on their presentation slides. Use the provided rubric as a guide for your feedback. Note that assigning a score to the team is not required.
 
-- **Draft Report**. Document all of the updates made to the vision / requirements / design and plan documents, with a focus on any remaining issues to be addressed in the Fall semester. Be sure to revisit the work breakdown structure in order to provide the most realistic plan possible for the remaining work. Summarize all experimental results achieved so far (with appropriate calculations of statistical significance), along with a discussion of performance gains versus the prior state of the art, an analysis of known remaining error types, and suggestions for how to address known gaps in performance or specific error categories.
+    - Provide Detailed Feedback: Each week, you are expected to submit a minimum of three high-quality comments. Each comment should be well thought out and detailed, ranging from 50-100 words. It's important to distribute your comments evenly throughout the presentation. Your feedback will be assessed using Persuall's quality algorithm, and there will be a manual inspection after the deadline to ensure grading accuracy.
 
-- **Draft Report Revision (Optional)**. After reviewing feedback for the draft, you will have the opportunity to revise the draft and submission a revision of the draft for regrading. This is optional, but we encourage you to take advantage of this opportunity to learn from the feedback and produce a better version of the draft.
+- ### Vision Document
 
-  To be eligible for the revision draft submission, your initial draft report submission must receive at least a grade of 70%, AND your designated TA must recommend you. This means that the original draft you submit must be of substantial and authentic work and that the revised version would be a revised version of the draft report and not used as a time extension mechanism.
+    Document the motivation for the project - what problems does the proposed project attempt to solve, and for what data set(s)? What is novel or unique about the proposed approach? How will success be measured? What is the expected impact (business or research value) if the project is successful? The Vision Document should clearly state Research Questions, General Hypotheses, and Specific (Testable) Hypotheses, along with an indication of how technical performance and/or business value will be measured.
 
-  If you submit the revision, your grade for the draft report will be the grade of the revised draft. If you choose not to submit a revision, your grade will be the original grade of the first draft report submission. We strive to give you feedback as quickly as possible to give you sufficient time to review and revise the draft.
+- ### Requirements Document
 
-- **Spring Final Presentation**. Present your vision, requirements, design, and plan in a short presentation, along with a summary of results so far and work remaining to be completed. The presentations will take place in a public venue; all members of the SCS community (as well as MCDS alumni) and the project mentors will be invited to attend.
+    Document specific use cases (workflows and/or data flows) for the proposed solution. Analyze the data set(s) and provide a domain analysis that identifies the salient characteristics of the data domain and likely challenges (missing data, noise, skewed distributions, magnitude, drift, etc.). Identify (from a systems perspective) what computations will be required to clean, pre-process, prepare, and train models on the data set(s); what software modules must be designed and implemented, either from scratch or using existing toolkits; what metrics and measurement routines must be implemented or deployed using existing toolkits; user/case studies that will be undertaken to demonstrate business value; etc.
 
-- **Final Presentation Peer Review**. Each student is required to attend at least one Spring final presentation of another team and submit a brief review of this team's presentation. Students will have the chance to submit their preference for the team to review according to their schedule suitability.
+- ### Design and Plan Document
+
+    Document a specific architecture (modules and data flow) to represent the cleaning pre-processing, model training, solution deployment, and solution evaluation phases for the proposed project. Provide a mapping from each use case in the requirements document to the workflows and modules that will support that use case. Identify which elements will be designed and coded by hand, implemented via existing frameworks / toolkits, or reused from existing solutions. Create a work breakdown structure to indicate what development activities will be undertaken and, at what times, by which team members. It should be clear from the plan how and when each element will be completed, how it will be evaluated, and how error analysis and refinement will be undertaken for each module, as well as the entire end-to-end solution. Teams are strongly encouraged to complete a preliminary end-to-end implementation of each workflow in the solution, along with a corresponding error analysis, before the end of the semester. Preliminary results by mid-semester will be expected for any team that wishes to publish results at the end of the Spring semester.
+
+- ### Midterm Presentation
+
+    Present the highlights of the vision, requirements, design, and plan, along with any preliminary results, in a recorded video.
+
+- ### Midterm Presentation Peer Review
+
+    Attend at least one peer team's midterm presentation video and submit a brief review of the team(s) 's presentation on Persuall. 
+
+- ### Draft Report
+
+    Document all of the updates made to the vision / requirements / design and plan documents, with a focus on any remaining issues to be addressed in the Fall semester. Be sure to revisit the work breakdown structure in order to provide the most realistic plan possible for the remaining work. Summarize all experimental results achieved so far (with appropriate calculations of statistical significance), along with a discussion of performance gains versus the prior state of the art, an analysis of known remaining error types, and suggestions for how to address known gaps in performance or specific error categories.
+
+- ### Draft Report Revision (Optional)
+
+    After reviewing feedback for the draft, you will have the opportunity to revise the draft and submission a revision of the draft for regrading. This is optional, but we encourage you to take advantage of this opportunity to learn from the feedback and produce a better version of the draft.
+
+    To be eligible for the revision draft submission, your initial draft report submission must receive at least a grade of 70%, AND your designated TA must recommend you. This means that the original draft you submit must be of substantial and authentic work and that the revised version would be a revised version of the draft report and not used as a time extension mechanism.
+
+    If you submit the revision, your grade for the draft report will be the grade of the revised draft. If you choose not to submit a revision, your grade will be the original grade of the first draft report submission. We strive to give you feedback as quickly as possible to give you sufficient time to review and revise the draft.
+
+- ### Spring Final Presentation
+
+    Present your vision, requirements, design, and plan in a short presentation, along with a summary of results so far and work remaining to be completed. The presentations will take place in a public venue; all members of the SCS community (as well as MCDS alumni) and the project mentors will be invited to attend.
+
+- ### Final Presentation Peer Review
+
+    Each student is required to attend at least one Spring final presentation of another team and submit a brief review of this team's presentation. Students will have the chance to submit their preference for the team to review according to their schedule suitability.
 
 - ### End-of-Semester Internal Evaluation
 
@@ -70,24 +100,18 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 
     Participation in this peer review is mandatory, and it will substantially influence your individual grade. This policy underscores our commitment to fostering a collaborative learning environment where every member's contribution is valued and assessed fairly.
 
-- **Individual Growth**. Each student is required to define and communicate their personal learning objectives, which they aim to achieve throughout the capstone experience. Additionally, they are to compose a short report that demonstrates their reflective thinking and ongoing efforts towards self-improvement and skill enhancement. This concise report should detail how their experiences in the capstone project have contributed to meeting these learning goals.
+- ### Individual Growth
 
-- **Final Report**. Submit an update to your Draft Report, which incorporates: a) feedback received on your Draft Report submission and b) feedback received during your Spring Final Presentation.
+
+    Each student is required to define and communicate their personal learning objectives, which they aim to achieve throughout the capstone experience. Additionally, they are to compose a short report that demonstrates their reflective thinking and ongoing efforts towards self-improvement and skill enhancement. This concise report should detail how their experiences in the capstone project have contributed to meeting these learning goals.
+
+- ### Final Report
+
+    Submit an update to your Draft Report, which incorporates: a) feedback received on your Draft Report submission and b) feedback received during your Spring Final Presentation.
 
 ## Course Schedule
 
 See the [Course Calendar]({{ site.baseurl }}{{ page.subpath }}{% link s24/schedule.md %}) for the tentative schedule. Specific deadlines are posted on Canvas.
-
-## Weekly Fellow Feedback on Standups
-
-Each student will be assigned as a Fellow to a team, with the responsibility of providing feedback on their weekly standups.
-To complete the Weekly Standup Fellow Feedback process:
-
-- Access the Standups Evaluation Rubric: This can be found on Canvas, where you'll get the guidelines for evaluating the presentations.
-
-- Attend and Comment on the Presentation on Persuall: Watch the team's standup presentation and leave comments on their presentation slides. Use the provided rubric as a guide for your feedback. Note that assigning a score to the team is not required.
-
-- Provide Detailed Feedback: Each week, you are expected to submit a minimum of three high-quality comments. Each comment should be well thought out and detailed, ranging from 50-100 words. It's important to distribute your comments evenly throughout the presentation. Your feedback will be assessed using Persuall's quality algorithm, and there will be a manual inspection after the deadline to ensure grading accuracy.
 
 ## Grading
 
