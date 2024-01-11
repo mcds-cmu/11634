@@ -117,8 +117,6 @@ See the [Course Calendar]({{ site.baseurl }}{{ page.subpath }}{% link s24/schedu
 
 Grading will consist of:
 
-**Capstone Project Deliverables**
-
 - Weekly Standups:	5%
 - Weekly Fellow Feedback on Standups:	5%
 - Vision Document:	10%
