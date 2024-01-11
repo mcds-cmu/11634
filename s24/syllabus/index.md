@@ -50,7 +50,7 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 
 - **Final Presentation Peer Review**. Each student is required to attend at least one Spring final presentation of another team and submit a brief review of this team's presentation. Students will have the chance to submit their preference for the team to review according to their schedule suitability.
 
-- # End-of-Semester Internal Evaluation
+- ### End-of-Semester Internal Evaluation
 
 To facilitate a fair distribution of work among team members, our assessment process includes a peer review component, conducted exclusively at the end of the semester. This peer review is an individual assignment, integral to the final assessment, focusing on three key aspects:
 
