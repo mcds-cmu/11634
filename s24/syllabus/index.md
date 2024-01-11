@@ -14,9 +14,7 @@ has_toc: false
 
 ## Time & Location
 
-Section A: MW 8 am - 09:20 am, POS 153
-
-Section B: MW 11 am - 12:20 pm, GHC 4102
+MW	08:00 AM	- 09:20AM	SH 236
 
 ## Course Format
 
@@ -34,7 +32,7 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 
 - **Midterm Presentation**. Present the highlights of the vision, requirements, design, and plan, along with any preliminary results, in a recorded video.
 
-- **Midterm Presentation Team Peer Review**. Watch at least one peer team's midterm presentation video and submit a brief review of the team(s) 's presentation on Persuall. 
+- **Midterm Presentation Peer Review**. Attend at least one peer team's midterm presentation video and submit a brief review of the team(s) 's presentation on Persuall. 
 
 - **Draft Report**. Document all of the updates made to the vision / requirements / design and plan documents, with a focus on any remaining issues to be addressed in the Fall semester. Be sure to revisit the work breakdown structure in order to provide the most realistic plan possible for the remaining work. Summarize all experimental results achieved so far (with appropriate calculations of statistical significance), along with a discussion of performance gains versus the prior state of the art, an analysis of known remaining error types, and suggestions for how to address known gaps in performance or specific error categories.
 
@@ -46,9 +44,11 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 
 - **Spring Final Presentation**. Present your vision, requirements, design, and plan in a short presentation, along with a summary of results so far and work remaining to be completed. The presentations will take place in a public venue; all members of the SCS community (as well as MCDS alumni) and the project mentors will be invited to attend.
 
-- **Final Presentation Team Peer Review**. Each student is required to attend at least one Spring final presentation of another team and submit a brief review of this team's presentation. Students will have the chance to submit their preference for the team to review according to their schedule suitability.
+- **Final Presentation Peer Review**. Each student is required to attend at least one Spring final presentation of another team and submit a brief review of this team's presentation. Students will have the chance to submit their preference for the team to review according to their schedule suitability.
 
-- **Inner-team Peer Review**. Reflect on your contribution to your peer(s)' learning and the overall project, and evaluate peer(s)' contribution to the project. 
+- **End-of-Semester Internal Evaluation**. Reflect on your contribution to your peer(s)' learning and the overall project, and evaluate peer(s)' contribution to the project.
+
+- **Individual Growth**. Each student is required to define and communicate their personal learning objectives, which they aim to achieve throughout the capstone experience. Additionally, they are to compose a short report that demonstrates their reflective thinking and ongoing efforts towards self-improvement and skill enhancement. This concise report should detail how their experiences in the capstone project have contributed to meeting these learning goals.
 
 - **Final Report**. Submit an update to your Draft Report, which incorporates: a) feedback received on your Draft Report submission and b) feedback received during your Spring Final Presentation.
 
@@ -62,48 +62,75 @@ Grading will consist of:
 
 **Capstone Project Deliverables**
 
-- Weekly Standups (starts February 10): 5%
-- Vision Document: 10%
-- Requirements Document: 10%
-- Design Document: 5%
-- Plan Document: 5%
-- Midterm Presentation: 10%
-- Draft Report: 10%
-- Final Report: 15%
-- Spring Final Presentation: 10%
-
-**Peer Reviews**
-
-- Midterm Presentation Team Peer Review: 5%
-- Final Presentation Team Peer Review: 5%
-- Midterm Inner-team Peer Review: 2.5%
-- Final Inner-team Peer Review: 2.5%
+- Weekly Standups:
+- Vision Document:
+- Requirements Document:
+- Design Document:
+- Plan Document:
+- Midterm Presentation:
+- Draft Report:
+- Final Report:
+- Spring Final Presentation:
+- End-of-Semester Internal Evaluation:
+- Individual Growth:
 
 Deliverables will be assigned a team grade, and it is essential that all members of a team make efforts to collaborate effectively. Above or below-average individual work may put individual grades ahead or below the group grade only by a small margin. We expect everyone not to isolate themselves and make a good faith effort on a regular basis to coordinate/engage with their teammates, share their insights, and make sure everyone can contribute. Individuals will be assigned project grades based on the team grade and peer evaluations.
 
-## Weekly Standups
-A standup is a casual check-in to share your team’s progress update. It is not supposed to be a polished presentation. Simply share your screen and brief us on what has been happening. Be authentic with what your team’s current progress is and what your team is dealing with. Doing so allows us to provide you with timely support if needed.
+## Grade Policy
 
-Each team is required to submit a standup on a weekly basis according to the course schedule. Students submit standups by recording a 5 to 10-minute video.
+**Individual Grade Adjustments**
+
+In our team-based academic settings, it is recognized that uniform grading may not always reflect individual contributions. Hence, instructors have the discretion to modify a student's grade relative to the team's collective grade. This adjustment is grounded in a thorough evaluation of various factors such as the student's effort, active participation in course work, professionalism, ability to work collaboratively, and demonstration of a growth mindset.
+
+**Grading Methodology**
+*Score Normalization:* Our grading process begins with the normalization of scores using statistical techniques. This approach reshapes the distribution of scores into a bell curve format. Instructors then anchor the median score with a specific grade. The grades for other scores are determined based on their relative position to this median.
+*Score Distribution Analysis:* Following normalization, instructors analyze the distribution of scores. They identify distinct clusters and breaks in the score distribution, utilizing these gaps as benchmarks for grade assignment.
+
+**Exceptional Performance Recognition**
+We reserve the highest accolade, the 'A+' grade, for students who not only secure top marks but also demonstrate significant research impact. This decision is made collectively by course instructors and mentors, ensuring a fair and comprehensive assessment of each student's academic prowess.
+
+## Weekly Standups
+
+A standup is a casual check-in to share your team’s progress update. It is not supposed to be a polished presentation. Simply share your screen and brief us on what has been happening. Be authentic with what your team’s current progress is and what your team is dealing with. Doing so allows us to provide you with timely support if needed.
 
 ## Attendance Policy
 
-The course only meets as stated in the schedule to provide ample time for dedicated project work and weekly meetings with the project mentor. Each student is permitted **one** absence for the semester. It may only be taken for a session in which the student's team is not presenting. Interview appointments are not considered valid excuses for absences beyond this allowance.
+Attendance at all class meetings is mandatory. Our class sessions are specifically designed for lectures, in-class standups, and presentations. Experience from previous cohorts strongly indicates that regular attendance is crucial for both the success of the team and the individual growth of each student. Therefore, each student is expected to attend every session as scheduled.
 
-## Inner-team Peer Review Assessment
+In recognition of the unpredictable nature of circumstances, each student will be allowed **one** absence per semester. This absence is permissible only for sessions where the student's team is not scheduled to present. It should be noted that interview appointments or similar commitments are not considered valid reasons for additional absences beyond this single allowance.
 
-To facilitate a fair distribution of work among team members, each midterm and final assessment includes a peer review. These reviews are individual assignments. The review asks for three main points, how you contributed to the project, how your peers contributed to the project, and how you contributed to your peer's learning. All questions are short-answer questions and require no numerical evaluation.
+## End-of-Semester Internal Evaluation
 
-You must provide substantive answers to each question to receive marks for the answers. In particular, you must give concrete examples for each point and provide constructive feedback on fixing the problems.
+To facilitate a fair distribution of work among team members, our assessment process includes a peer review component, conducted exclusively at the end of the semester. This peer review is an individual assignment, integral to the final assessment, focusing on three key aspects:
 
-You must provide feedback to all team members when answering questions about their contribution to the project. We understand this can be tedious for large teams. However, understanding and reflecting on others' contributions to the project are important regardless of the team size. 
+**Your Contribution to the Project:** Detailing the roles and responsibilities you undertook and your direct impact on the project's progress.
+**Peers’ Contribution to the Project:** Providing insights into each team member's contributions. Despite the potential challenge in larger teams, it’s vital to acknowledge and reflect on every member’s involvement.
+**Contribution to Peer Learning:** Assessing how you and your peers have facilitated each other's learning throughout the project.
 
-You will be graded on the quality of the feedback. Giving feedback is as impactful for the reviewers as it is to the receivers, so we encourage you to take some time to reflect on the question prompts and write a meaningful review. Your review will be available to all team members, so be constructive but nice and mindful.
+To ensure a meaningful review, you are required to provide substantive, reflective answers to each question. Your responses should include specific examples and constructive criticism aimed at problem-solving and improvement.
 
-Data from the inner-team peer reviews (how your peers responded to each prompt) will be made available for all students. The personal information of the writers will be removed. We hope you find this data useful to discuss how to reflect on them and work collaboratively better.
+The quality of your feedback is a significant component of your grade. Effective feedback benefits both the giver and the receiver, fostering a deeper understanding and improvement. As such, thoughtful and considerate responses are encouraged.
 
-Participation will be mandatory, and individual grades will be influenced by peer review outcomes.
+Your review, which will be shared with all team members, should be constructive, respectful, and considerate.
+
+Furthermore, anonymized data from these peer reviews will be made available to all students. This initiative aims to provide insights into team dynamics and encourage discussions on collaborative improvement.
+
+Participation in this peer review is mandatory, and it will substantially influence your individual grade. This policy underscores our commitment to fostering a collaborative learning environment where every member's contribution is valued and assessed fairly.
 
 ## Academic Integrity
 
-For all presentations and the final report, students share their work with their teammates. Both presentations and reports need to make clear at all times the students' contributions and those parts that have been influenced, taken, adapted, or otherwise derived from prior work. Any such additional material must be properly cited in the report and on the presentation slides. This citation material includes related academic writing (even if published by a collaborator of the project), diagrams, datasets, prior Capstone project reports, video tutorials, scientific blog posts, and technical components such as algorithms, libraries, and among others. When a source's text is paraphrased, it needs to be referenced. If it is reused verbatim, it must be quoted (i.e., put into quotation marks and annotated with a reference).
+For all team presentations and the final report, it's imperative that students present their work in a manner that distinctly outlines their contributions and differentiates them from existing work. This includes clearly indicating parts of the project that have been influenced by, derived from, or adapted from prior works. It is crucial that these external influences are not only acknowledged but also properly cited in both the report and presentation slides.
+
+Appropriate citation must cover a wide range of materials, including but not limited to:
+
+- Academic writings (including those published by collaborators of the project)
+- Diagrams and visual aids
+- Datasets utilized in the project
+- Reports from previous Capstone projects
+- Video tutorials and scientific blog posts
+- Technical components such as algorithms, software libraries, and similar tools
+- When incorporating these materials into your work, two key principles must be followed:
+
+Paraphrasing: When the text from a source is paraphrased (i.e., rewritten in your own words), it is essential to cite the original source to acknowledge its influence on your work.
+Direct Quotation: If a piece of text is used verbatim (exactly as it appears in the source), it must be placed within quotation marks and accompanied by a specific reference to its origin.
+Ensuring the integrity of your work through proper citations is not only a scholarly requirement but also a mark of respect for the intellectual property of others. This practice is central to upholding academic honesty and fostering a culture of responsibility and ethical scholarship in our academic community.
