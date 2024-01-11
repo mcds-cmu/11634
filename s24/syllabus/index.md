@@ -52,23 +52,23 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 
 - ### End-of-Semester Internal Evaluation
 
-To facilitate a fair distribution of work among team members, our assessment process includes a peer review component, conducted exclusively at the end of the semester. This peer review is an individual assignment, integral to the final assessment, focusing on three key aspects:
+    To facilitate a fair distribution of work among team members, our assessment process includes a peer review component, conducted exclusively at the end of the semester. This peer review is an individual assignment, integral to the final assessment, focusing on three key aspects:
 
-**Your Contribution to the Project:** Detailing the roles and responsibilities you undertook and your direct impact on the project's progress.
+    **Your Contribution to the Project:** Detailing the roles and responsibilities you undertook and your direct impact on the project's progress.
 
-**Peers’ Contribution to the Project:** Providing insights into each team member's contributions. Despite the potential challenge in larger teams, it’s vital to acknowledge and reflect on every member’s involvement.
+    **Peers’ Contribution to the Project:** Providing insights into each team member's contributions. Despite the potential challenge in larger teams, it’s vital to acknowledge and reflect on every member’s involvement.
 
-**Contribution to Peer Learning:** Assessing how you and your peers have facilitated each other's learning throughout the project.
+    **Contribution to Peer Learning:** Assessing how you and your peers have facilitated each other's learning throughout the project.
 
-To ensure a meaningful review, you are required to provide substantive, reflective answers to each question. Your responses should include specific examples and constructive criticism aimed at problem-solving and improvement.
+    To ensure a meaningful review, you are required to provide substantive, reflective answers to each question. Your responses should include specific examples and constructive criticism aimed at problem-solving and improvement.
 
-The quality of your feedback is a significant component of your grade. Effective feedback benefits both the giver and the receiver, fostering a deeper understanding and improvement. As such, thoughtful and considerate responses are encouraged.
+    The quality of your feedback is a significant component of your grade. Effective feedback benefits both the giver and the receiver, fostering a deeper understanding and improvement. As such, thoughtful and considerate responses are encouraged.
 
-Your review, which will be shared with all team members, should be constructive, respectful, and considerate.
+    Your review, which will be shared with all team members, should be constructive, respectful, and considerate.
 
-Furthermore, anonymized data from these peer reviews will be made available to all students. This initiative aims to provide insights into team dynamics and encourage discussions on collaborative improvement.
+    Furthermore, anonymized data from these peer reviews will be made available to all students. This initiative aims to provide insights into team dynamics and encourage discussions on collaborative improvement.
 
-Participation in this peer review is mandatory, and it will substantially influence your individual grade. This policy underscores our commitment to fostering a collaborative learning environment where every member's contribution is valued and assessed fairly.
+    Participation in this peer review is mandatory, and it will substantially influence your individual grade. This policy underscores our commitment to fostering a collaborative learning environment where every member's contribution is valued and assessed fairly.
 
 - **Individual Growth**. Each student is required to define and communicate their personal learning objectives, which they aim to achieve throughout the capstone experience. Additionally, they are to compose a short report that demonstrates their reflective thinking and ongoing efforts towards self-improvement and skill enhancement. This concise report should detail how their experiences in the capstone project have contributed to meeting these learning goals.
 
