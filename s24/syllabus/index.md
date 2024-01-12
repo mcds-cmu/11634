@@ -14,7 +14,7 @@ has_toc: false
 
 ## Time & Location
 
-MW	08:00 AM	- 09:20AM	SH 236
+MW 08:00 AM	- 09:20AM SH 236
 
 ## Course Format
 
@@ -102,7 +102,6 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 
 - ### Individual Growth
 
-
     Each student is required to define and communicate their personal learning objectives, which they aim to achieve throughout the capstone experience. Additionally, they are to compose a short report that demonstrates their reflective thinking and ongoing efforts towards self-improvement and skill enhancement. This concise report should detail how their experiences in the capstone project have contributed to meeting these learning goals.
 
 - ### Final Report
@@ -140,7 +139,7 @@ In our team-based academic settings, it is recognized that uniform grading may n
 
 **Grading Methodology**
 
-*Score Normalization:* Our grading process begins with the normalization of scores using statistical techniques to calculate the mean and variance. Individual grades are determined based on the standard deviations from the mean.
+Our grading process begins with the normalization of scores using statistical techniques to calculate the mean and variance. Individual grades are determined based on the standard deviations from the mean.
 
 **Exceptional Performance Recognition**
 
@@ -166,7 +165,7 @@ Appropriate citation must cover a wide range of materials, including but not lim
 - Technical components such as algorithms, software libraries, and similar tools
 - When incorporating these materials into your work, two key principles must be followed:
 
-Paraphrasing: When the text from a source is paraphrased (i.e., rewritten in your own words), it is essential to cite the original source to acknowledge its influence on your work.
+**Paraphrasing**: When the text from a source is paraphrased (i.e., rewritten in your own words), it is essential to cite the original source to acknowledge its influence on your work.
 Direct Quotation: If a piece of text is used verbatim (exactly as it appears in the source), it must be placed within quotation marks and accompanied by a specific reference to its origin.
 Ensuring the integrity of your work through proper citations is not only a scholarly requirement but also a mark of respect for the intellectual property of others. This practice is central to upholding academic honesty and fostering a culture of responsibility and ethical scholarship in our academic community.
 
