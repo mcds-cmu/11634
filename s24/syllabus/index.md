@@ -28,11 +28,11 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 
     Standups are informal sessions for teams to update on their progress, focusing on authenticity rather than polished presentations, allowing for timely support based on current challenges and developments.
 
-- ### Weekly Fellow Feedback on Standups
+- ### Weekly Project Associate Feedback on Standups
 
-    Each student will be assigned as a Fellow to a team, with the responsibility of providing feedback on their weekly standups.
+    Each student will be assigned as a Project Associate to a team, with the responsibility of providing feedback on their weekly standups.
 
-    To complete the Weekly Standup Fellow Feedback process:
+    To complete the Weekly Standup Project Associate Feedback process:
 
     - Access the Standups Evaluation Rubric: This can be found on Canvas, where you'll get the guidelines for evaluating the presentations.
 
@@ -117,7 +117,7 @@ See the [Course Calendar]({{ site.baseurl }}{{ page.subpath }}{% link s24/schedu
 Grading will consist of:
 
 - Weekly Standups:	5%
-- Weekly Fellow Feedback on Standups:	5%
+- Weekly Project Associate Feedback on Standups:	5%
 - Vision Document:	10%
 - Requirements Document:	10%
 - Design Document:	5%
