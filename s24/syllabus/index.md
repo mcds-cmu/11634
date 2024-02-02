@@ -148,7 +148,7 @@ We reserve the highest accolade, the 'A+' grade, for students who not only secur
 
 ## Attendance Policy
 
-Attendance at all class meetings is mandatory. Our class sessions are specifically designed for lectures, in-class standups, and presentations. Experience from previous cohorts strongly indicates that regular attendance is crucial for both the success of the team and the individual growth of each student. Therefore, each student is expected to attend every session as scheduled.
+Attendance is a critical component of the participation score, accounting for 5% of the overall grade. Attendance at all class meetings is mandatory. Our class sessions are specifically designed for lectures, in-class standups, and presentations. Experience from previous cohorts strongly indicates that regular attendance is crucial for both the success of the team and the individual growth of each student. Therefore, each student is expected to attend every session as scheduled.
 
 In recognition of the unpredictable nature of circumstances, each student will be allowed **one** absence per semester. This absence is permissible only for sessions where the student's team is not scheduled to present. It should be noted that interview appointments or similar commitments are not considered valid reasons for additional absences beyond this single allowance.
 
@@ -167,7 +167,9 @@ Appropriate citation must cover a wide range of materials, including but not lim
 - When incorporating these materials into your work, two key principles must be followed:
 
 **Paraphrasing**: When the text from a source is paraphrased (i.e., rewritten in your own words), it is essential to cite the original source to acknowledge its influence on your work.
-Direct Quotation: If a piece of text is used verbatim (exactly as it appears in the source), it must be placed within quotation marks and accompanied by a specific reference to its origin.
+
+**Direct Quotation**: If a piece of text is used verbatim (exactly as it appears in the source), it must be placed within quotation marks and accompanied by a specific reference to its origin.
+
 Ensuring the integrity of your work through proper citations is not only a scholarly requirement but also a mark of respect for the intellectual property of others. This practice is central to upholding academic honesty and fostering a culture of responsibility and ethical scholarship in our academic community.
 
 ## Assignment Submission Confidentiality and Use for Course Improvement
