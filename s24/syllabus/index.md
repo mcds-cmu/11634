@@ -127,7 +127,8 @@ Grading will consist of:
 - Final Report:	15%
 - Spring Final Presentation:	20%
 - End-of-Semester Internal Evaluation:	5%
-- Individual Growth:	10%
+- Individual Growth:	5%
+- Participation:	5%
 
 Deliverables will be assigned a team grade, and it is essential that all members of a team make efforts to collaborate effectively. Above or below-average individual work may put individual grades ahead or below the group grade only by a small margin. We expect everyone not to isolate themselves and make a good faith effort on a regular basis to coordinate/engage with their teammates, share their insights, and make sure everyone can contribute. Individuals will be assigned project grades based on the team grade and peer evaluations.
 
