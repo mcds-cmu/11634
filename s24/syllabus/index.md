@@ -146,6 +146,10 @@ Our grading process begins with the normalization of scores using statistical te
 
 We reserve the highest accolade, the 'A+' grade, for students who not only secure top marks but also demonstrate significant research impact. This decision is made collectively by course instructors and mentors, ensuring a fair and comprehensive assessment of each student's academic prowess.
 
+**Regrading Policy**
+
+All grading disputes and regrading requests must be made within 7 days after the grade is released. No requests will be accepted after this deadline.
+
 ## Attendance Policy
 
 Attendance is a critical component of the participation score, accounting for 5% of the overall grade. Attendance at all class meetings is mandatory. Our class sessions are specifically designed for lectures, in-class standups, and presentations. Experience from previous cohorts strongly indicates that regular attendance is crucial for both the success of the team and the individual growth of each student. Therefore, each student is expected to attend every session as scheduled.
