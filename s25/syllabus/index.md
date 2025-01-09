@@ -26,6 +26,13 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 
 - ### Weekly Report
 
+    Starting week 5, each week, your team will deliver a 5 to 10-minute presentation summarizing your project’s progress from the past week. The presentation must use the quad chart template provided on Canvas and should focus on detailed progress updates rather than an extended introduction. The aim is to clearly communicate your work and facilitate productive discussions.
+
+    To accommodate the large number of teams, these reports will alternate biweekly between meetings with the instructor and meetings with a designated TA. These meetings will not occur during regular class times:
+        •	Instructor Meetings: Held Tuesday to Thursday, 1:00–5:00 PM in GHC 5419.
+        •	TA Meetings: Teams and TAs will coordinate the time and location, with the option to meet on Zoom.
+
+    Each report will be graded, and attendance is mandatory.
 
 
 - ### Vision Document
@@ -40,25 +47,10 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 
     Document a specific architecture (modules and data flow) to represent the cleaning pre-processing, model training, solution deployment, and solution evaluation phases for the proposed project. Provide a mapping from each use case in the requirements document to the workflows and modules that will support that use case. Identify which elements will be designed and coded by hand, implemented via existing frameworks / toolkits, or reused from existing solutions. Create a work breakdown structure to indicate what development activities will be undertaken and, at what times, by which team members. It should be clear from the plan how and when each element will be completed, how it will be evaluated, and how error analysis and refinement will be undertaken for each module, as well as the entire end-to-end solution. Teams are strongly encouraged to complete a preliminary end-to-end implementation of each workflow in the solution, along with a corresponding error analysis, before the end of the semester. Preliminary results by mid-semester will be expected for any team that wishes to publish results at the end of the Spring semester.
 
-- ### Midterm Presentation
-
-    Present the highlights of the vision, requirements, design, and plan, along with any preliminary results, in a recorded video.
-
-- ### Midterm Presentation Peer Review
-
-    Attend at least one peer team's midterm presentation video and submit a brief review of the team(s) 's presentation on Persuall. 
 
 - ### Draft Report
 
     Document all of the updates made to the vision / requirements / design and plan documents, with a focus on any remaining issues to be addressed in the Fall semester. Be sure to revisit the work breakdown structure in order to provide the most realistic plan possible for the remaining work. Summarize all experimental results achieved so far (with appropriate calculations of statistical significance), along with a discussion of performance gains versus the prior state of the art, an analysis of known remaining error types, and suggestions for how to address known gaps in performance or specific error categories.
-
-- ### Draft Report Revision (Optional)
-
-    After reviewing feedback for the draft, you will have the opportunity to revise the draft and submission a revision of the draft for regrading. This is optional, but we encourage you to take advantage of this opportunity to learn from the feedback and produce a better version of the draft.
-
-    To be eligible for the revision draft submission, your initial draft report submission must receive at least a grade of 70%, AND your designated TA must recommend you. This means that the original draft you submit must be of substantial and authentic work and that the revised version would be a revised version of the draft report and not used as a time extension mechanism.
-
-    If you submit the revision, your grade for the draft report will be the grade of the revised draft. If you choose not to submit a revision, your grade will be the original grade of the first draft report submission. We strive to give you feedback as quickly as possible to give you sufficient time to review and revise the draft.
 
 - ### Spring Final Presentation
 
@@ -88,9 +80,13 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 
     Participation in this peer review is mandatory, and it will substantially influence your individual grade. This policy underscores our commitment to fostering a collaborative learning environment where every member's contribution is valued and assessed fairly.
 
-- ### Individual Growth
+- ### Personal Learning Objectives
 
     Each student is required to define and communicate their personal learning objectives, which they aim to achieve throughout the capstone experience. Additionally, they are to compose a short report that demonstrates their reflective thinking and ongoing efforts towards self-improvement and skill enhancement. This concise report should detail how their experiences in the capstone project have contributed to meeting these learning goals.
+
+- ### Individual Check-In Survey:
+
+    Periodically, you will be asked to complete a survey to provide insights into your individual progress, any struggles you may be facing, issues with your team or teammates, and general feedback. These surveys are an essential part of the course and are required to ensure your success.
 
 - ### Final Report
 
@@ -114,7 +110,8 @@ Grading will consist of:
 - Final Report: 15%
 - Spring Final Presentation: 15%
 - Personal Learning Objectives: 5%
-- Participation: 10% 
+- Individual Check-in Surveys: 5%
+- Participation: 5% 
 
 Deliverables will be assigned a team grade, and it is essential that all members of a team make efforts to collaborate effectively. Above or below-average individual work may put individual grades ahead or below the group grade only by a small margin. We expect everyone not to isolate themselves and make a good faith effort on a regular basis to coordinate/engage with their teammates, share their insights, and make sure everyone can contribute. Individuals will be assigned project grades based on the team grade and peer evaluations.
 
@@ -138,7 +135,13 @@ All grading disputes and regrading requests must be made within 7 days after the
 
 ## Attendance Policy
 
-Attendance is a critical component of the participation score, accounting for 10% of the overall grade. Attendance at all class meetings, weekly reports, and presentations is mandatory. Experience from previous cohorts strongly indicates that regular attendance is crucial for both the success of the team and the individual growth of each student. Therefore, each student is expected to attend every session as scheduled.
+Attendance is a critical component of your participation score, contributing 5% of your overall grade. It is mandatory to attend all class meetings, weekly reports, and presentations. Past experience from previous cohorts shows that regular attendance is essential for team success and individual growth. Therefore, all students are expected to attend every session as scheduled.
+
+Since the course meets only a few times during the regular class schedule, attendance at all these sessions is required. Additionally, students must be present:
+	•	During their team’s biweekly report presentations to the instructor and TA.
+	•	For their final presentation and any other presentations they are assigned to review.
+
+Failure to attend any of these will result in a zero score for that specific assignment for the individual student.
 
 In recognition of the unpredictable nature of circumstances, each student will be allowed **one** absence per semester. This absence is permissible only for sessions where the student's team is not scheduled to present. It should be noted that interview appointments or similar commitments are not considered valid reasons for additional absences beyond this single allowance.
 
