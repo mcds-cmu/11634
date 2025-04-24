@@ -49,9 +49,9 @@ Each report will be graded, and attendance is mandatory.
     Document a specific architecture (modules and data flow) to represent the cleaning pre-processing, model training, solution deployment, and solution evaluation phases for the proposed project. Provide a mapping from each use case in the requirements document to the workflows and modules that will support that use case. Identify which elements will be designed and coded by hand, implemented via existing frameworks / toolkits, or reused from existing solutions. Create a work breakdown structure to indicate what development activities will be undertaken and, at what times, by which team members. It should be clear from the plan how and when each element will be completed, how it will be evaluated, and how error analysis and refinement will be undertaken for each module, as well as the entire end-to-end solution. Teams are strongly encouraged to complete a preliminary end-to-end implementation of each workflow in the solution, along with a corresponding error analysis, before the end of the semester. Preliminary results by mid-semester will be expected for any team that wishes to publish results at the end of the Spring semester.
 
 
-- ### Draft Report
+<!-- - ### Draft Report
 
-    Document all of the updates made to the vision / requirements / design and plan documents, with a focus on any remaining issues to be addressed in the Fall semester. Be sure to revisit the work breakdown structure in order to provide the most realistic plan possible for the remaining work. Summarize all experimental results achieved so far (with appropriate calculations of statistical significance), along with a discussion of performance gains versus the prior state of the art, an analysis of known remaining error types, and suggestions for how to address known gaps in performance or specific error categories.
+    Document all of the updates made to the vision / requirements / design and plan documents, with a focus on any remaining issues to be addressed in the Fall semester. Be sure to revisit the work breakdown structure in order to provide the most realistic plan possible for the remaining work. Summarize all experimental results achieved so far (with appropriate calculations of statistical significance), along with a discussion of performance gains versus the prior state of the art, an analysis of known remaining error types, and suggestions for how to address known gaps in performance or specific error categories. -->
 
 - ### Spring Final Presentation
 
@@ -107,12 +107,10 @@ Grading will consist of:
 - Requirements Document: 10%
 - Design Document: 5%
 - Plan Document: 5%
-- Draft Report: 5%
-- Final Report: 15%
-- Spring Final Presentation: 15%
+- Presentation Peer Review: 5%
+- Final Report: 20%
+- Spring Final Presentation: 20%
 - Personal Learning Objectives: 5%
-- Individual Check-in Surveys: 5%
-- Participation: 5% 
 
 Deliverables will be assigned a team grade, and it is essential that all members of a team make efforts to collaborate effectively. Above or below-average individual work may put individual grades ahead or below the group grade only by a small margin. We expect everyone not to isolate themselves and make a good faith effort on a regular basis to coordinate/engage with their teammates, share their insights, and make sure everyone can contribute. Individuals will be assigned project grades based on the team grade and peer evaluations.
 
