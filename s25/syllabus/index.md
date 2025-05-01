@@ -103,13 +103,13 @@ Grading will consist of:
 
 - Biweekly Report with Instructor: 10%
 - Biweekly Report with TA: 10%
-- Vision Document: 10%
-- Requirements Document: 10%
-- Design Document: 5%
-- Plan Document: 5%
+- Vision Document: 10% (5% TA, 5% Instructor)
+- Requirements Document: 10% (5% TA, 5% Instructor)
+- Design Document: 10% (5% TA, 5% Instructor)
+- Plan Document: 10% (5% TA, 5% Instructor)
 - Presentation Peer Review: 5%
-- Final Report: 20%
-- Spring Final Presentation: 20%
+- Final Report: 15%
+- Spring Final Presentation: 15%
 - Personal Learning Objectives: 5%
 
 Deliverables will be assigned a team grade, and it is essential that all members of a team make efforts to collaborate effectively. Above or below-average individual work may put individual grades ahead or below the group grade only by a small margin. We expect everyone not to isolate themselves and make a good faith effort on a regular basis to coordinate/engage with their teammates, share their insights, and make sure everyone can contribute. Individuals will be assigned project grades based on the team grade and peer evaluations.
