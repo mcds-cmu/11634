@@ -24,16 +24,16 @@ Note: If you have proposed a self-identified project (i.e., have spoken to a fac
 
 ## Course Assessments
 
-- ### Weekly Report
+- ### Weekly Standups
 
 Starting week 6, each week, your team will deliver a 5 to 10-minute presentation summarizing your project’s progress from the past week. The presentation must use the quad chart template provided on Canvas and should focus on detailed progress updates rather than an extended introduction. The aim is to clearly communicate your work and facilitate productive discussions.
 
-To accommodate the large number of teams, these reports will alternate biweekly between meetings with the instructor and meetings with a designated TA. These meetings will not occur during regular class times:
+To accommodate the large number of teams, these standups will alternate biweekly between meetings with the instructor and meetings with a designated TA. These meetings will not occur during regular class times:
 
 - Instructor Meetings: Held Tuesday to Wednesday, 1:00–4:30 PM in GHC 5419.
 - TA Meetings: Teams and TAs will coordinate the time and location, with the option to meet on Zoom.
 
-Each report will be graded, and attendance is mandatory.
+Each standup will be graded, and attendance is mandatory.
 
 
 - ### Vision Document
@@ -101,8 +101,8 @@ See the [Course Calendar]({{ site.baseurl }}{{ page.subpath }}{% link s26/schedu
 
 Grading will consist of:
 
-- Biweekly Report with Instructor: 10%
-- Biweekly Report with TA: 10%
+- Biweekly Standups with Instructor: 10%
+- Biweekly Standups with TA: 10%
 - Vision Document: 10%
 - Requirements Document: 10%
 - Design Document: 10%
@@ -138,7 +138,7 @@ Attendance is a critical component of your participation score, contributing 5% 
 
 Since the course meets only a few times during the regular class schedule, attendance at all these sessions is required. Additionally, students must be present:
 
-- During their team’s biweekly report presentations to the instructor and TA.
+- During their team’s biweekly standups to the instructor and TA.
 - For their final presentation and any other presentations they are assigned to review.
 
 Failure to attend any of these will result in a zero score for that specific assignment for the individual student.

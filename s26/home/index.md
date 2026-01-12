@@ -9,7 +9,7 @@ permalink: s26/index.html
 
 # 11-634: Capstone Planning Seminar
 
-## Spring 2025
+## Spring 2026
 
 ## Course Description
 
