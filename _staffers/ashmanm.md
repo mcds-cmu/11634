@@ -7,4 +7,4 @@ photo: staff/ashman.jpg
 website: https://www.ashmanmehra.com
 staff_for: [s26]
 ---
-CS - MSCS
+SCS - MSCS
